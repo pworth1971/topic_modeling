@@ -1,0 +1,82 @@
+--------------------------------- CLUSTER #0 ---------------------------------
+Key Features (terms): fact given philosophical time world called example persistently paint parama paramahansa parcel 
+Chapters:
+5_Overarching Themes: The Laurasian Hypothesis and a New Metaphysics
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------- CLUSTER #1 ---------------------------------
+Key Features (terms): quantum mechanics theory relativity subatomic wavefunction quality einstein pirsig particles bohm wave 
+Chapters:
+46_Interpretations of Quantum Theory: Physics Meets Philosophy
+55_The Law of Unintended Consequences and The Death of the Soul
+42_Quantum Mechanics: Wave-Particle Duality and Uncertainty
+1_Introduction
+48_Subject-Object Metaphysics and Quality: A Reformulation of Logical Positivism 
+56_Into the Mystic: The Great Epistemological Divide
+58_Metaphysics of Awareness
+43_Schrödinger's Cat: The Death of Local Realism
+57_An Ontological Retrospective: Another Look at Aristotle and Pirsig
+40_The Metaphysics of Morality: Kantian Cognitive Ontology
+54_Ontology in the Quantum Era: A Retrospective 
+41_Albert Einstein: Spacetime and Relativity Theory
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------- CLUSTER #2 ---------------------------------
+Key Features (terms): chinese dynasty confucius confucian zhou han china heaven daoist dao shàngdì jīng 
+Chapters:
+16_Ancient Chinese Theology: Shàngdì, Pángǔ, Tiān and the Dao
+49_Chinese Philosophy: Back to the Beginning
+22_The Metaphysics of the I Ching: The Alignment of Heaven, Man and Earth 
+21_Ancient Chinese Theology: From Shàngdì to Tiān 
+29_The Lǎozǐ and Zhuangzi: Daoism and the Way of Virtue
+28_Early Chinese Philosophy: The Humanism of Confucius
+20_From the Far East: The Translation Challenge
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------- CLUSTER #3 ---------------------------------
+Key Features (terms): arabic socrates hebrew torah relativity empire jewish mechanics pythagorean einstein moses ovid 
+Chapters:
+33_The Indo-Europeans: The Grandparents of Philosophy
+8_From Language to Writing: The Dawn of History
+14_Orphic Theogony: Thanes and the Great Cosmic Egg
+11_The Enûma Eliš: Sumer- Babylonian Creation Mythos
+34_Hellenic Theo-Philosophy: From Mythos to Logos
+17_Roman Cosmogony: The Metamorphoses of Ovid
+10_Ancient Egyptian Mythos: The Weighing of the Heart, Ra and Ma'at
+18_Eurasian Mythos: Establishing the Laurasian Hypothesis 
+37_The Seeds of Christianity: The Hellenization of Judaism
+9_The Ancient Hebrews: The Tanakh, Torah and Five Books of Moses
+13_Classic Hellenic Theogony: Chaos, Chronos and Eros
+45_The View from the West: The History of Objective Realism
+38_Islamic Philosophy: Allāh as the Final Cause
+25_Pythagoras: The Father of Hellenic Philosophy
+12_Ancient Persian Theology: Zarathustra and the Avesta
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------- CLUSTER #4 ---------------------------------
+Key Features (terms): quantum yoga mechanics vedānta subatomic relativity particles vedas brahman puruṣa wavefunction einstein 
+Chapters:
+50_Vedic Theology: Vedānta and Brahmavidyā
+3_A Brief History of the Mystical Arts: Beyond Yoga
+52_Swami Vivekananda and Yoga: 20th Century Vedānta
+31_Logos from Mythos: The Heart of Eurasian Philosophy
+4_Meditation as a Mystical Art: A Bridge Through Time 
+51_Mysticism and Freud: Never the Two Shall Meet
+6_Setting the Stage: A Brief of History of Modern Man
+15_Vedic Cosmogony: Skepticism, Puruṣa and Hiraṇyagarbha 
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------- CLUSTER #5 ---------------------------------
+Key Features (terms): socrates brahman vedānta stoic upanishad suffering upanishads phaedo visible senses ātman immortality 
+Chapters:
+39_The Age of Enlightenment: The Philosophy of Science
+23_Upanishadic Philosophy: Brahmavidyā and the Soul
+30_Indo-European Theo-Philosophy: On the Soul
+47_Modern Psychology: Freud Versus Jung
+26_The Legacy of Socrates: Skepticism, Knowledge and Reason
+35_Aristotle's Metaphysics: Causality and Theology in Antiquity
+36_Stoicism: Naturalism, Corporealism and Logos
+27_Plato and the Allegory of the Cave: Ideas, Being and Becoming
+24_Buddhist Philosophy: Impermanence, Suffering and the "No-Self"
+--------------------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,82 @@
+--------------------------------- CLUSTER #0 ---------------------------------
+Key Features (terms): ancient philosophical one tradition also well first chinese philosophy bce world antiquity 
+Chapters:
+2: 50_Vedic Theology: Vedānta and Brahmavidyā
+3: 3_A Brief History of the Mystical Arts: Beyond Yoga
+4: 23_Upanishadic Philosophy: Brahmavidyā and the Soul
+5: 33_The Indo-Europeans: The Grandparents of Philosophy
+6: 8_From Language to Writing: The Dawn of History
+7: 30_Indo-European Theo-Philosophy: On the Soul
+8: 47_Modern Psychology: Freud Versus Jung
+10: 16_Ancient Chinese Theology: Shàngdì, Pángǔ, Tiān and the Dao
+12: 26_The Legacy of Socrates: Skepticism, Knowledge and Reason
+13: 31_Logos from Mythos: The Heart of Eurasian Philosophy
+14: 49_Chinese Philosophy: Back to the Beginning
+17: 14_Orphic Theogony: Thanes and the Great Cosmic Egg
+18: 11_The Enûma Eliš: Sumer- Babylonian Creation Mythos
+19: 4_Meditation as a Mystical Art: A Bridge Through Time 
+22: 34_Hellenic Theo-Philosophy: From Mythos to Logos
+25: 22_The Metaphysics of the I Ching: The Alignment of Heaven, Man and Earth 
+26: 17_Roman Cosmogony: The Metamorphoses of Ovid
+29: 6_Setting the Stage: A Brief of History of Modern Man
+30: 10_Ancient Egyptian Mythos: The Weighing of the Heart, Ra and Ma'at
+31: 18_Eurasian Mythos: Establishing the Laurasian Hypothesis 
+33: 9_The Ancient Hebrews: The Tanakh, Torah and Five Books of Moses
+35: 13_Classic Hellenic Theogony: Chaos, Chronos and Eros
+37: 21_Ancient Chinese Theology: From Shàngdì to Tiān 
+38: 15_Vedic Cosmogony: Skepticism, Puruṣa and Hiraṇyagarbha 
+40: 38_Islamic Philosophy: Allāh as the Final Cause
+41: 29_The Lǎozǐ and Zhuangzi: Daoism and the Way of Virtue
+43: 25_Pythagoras: The Father of Hellenic Philosophy
+44: 28_Early Chinese Philosophy: The Humanism of Confucius
+46: 20_From the Far East: The Translation Challenge
+50: 12_Ancient Persian Theology: Zarathustra and the Avesta
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------- CLUSTER #1 ---------------------------------
+Key Features (terms): ramakrishna fact within spiritual philosophical theo one theo philosophical swami child kālī indian 
+Chapters:
+20: 51_Mysticism and Freud: Never the Two Shall Meet
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------- CLUSTER #2 ---------------------------------
+Key Features (terms): christian jesus god tradition philosophical early gnostic christ jewish teachings one also 
+Chapters:
+32: 37_The Seeds of Christianity: The Hellenization of Judaism
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------- CLUSTER #3 ---------------------------------
+Key Features (terms): awareness philosophy knowledge metaphysics metaphysical kant intellectual cognitive ontological experience philosophical principle 
+Chapters:
+27: 58_Metaphysics of Awareness
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------- CLUSTER #4 ---------------------------------
+Key Features (terms): philosophical one reality philosophy intellectual well world also knowledge upon existence fact 
+Chapters:
+0: 39_The Age of Enlightenment: The Philosophy of Science
+9: 52_Swami Vivekananda and Yoga: 20th Century Vedānta
+11: 55_The Law of Unintended Consequences and The Death of the Soul
+15: 42_Quantum Mechanics: Wave-Particle Duality and Uncertainty
+16: 1_Introduction
+21: 48_Subject-Object Metaphysics and Quality: A Reformulation of Logical Positivism 
+23: 56_Into the Mystic: The Great Epistemological Divide
+24: 35_Aristotle's Metaphysics: Causality and Theology in Antiquity
+28: 36_Stoicism: Naturalism, Corporealism and Logos
+34: 43_Schrödinger's Cat: The Death of Local Realism
+36: 57_An Ontological Retrospective: Another Look at Aristotle and Pirsig
+39: 45_The View from the West: The History of Objective Realism
+42: 5_Overarching Themes: The Laurasian Hypothesis and a New Metaphysics
+45: 40_The Metaphysics of Morality: Kantian Cognitive Ontology
+47: 27_Plato and the Allegory of the Cave: Ideas, Being and Becoming
+48: 54_Ontology in the Quantum Era: A Retrospective 
+49: 41_Albert Einstein: Spacetime and Relativity Theory
+51: 24_Buddhist Philosophy: Impermanence, Suffering and the "No-Self"
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------- CLUSTER #5 ---------------------------------
+Key Features (terms): quantum theory mechanics interpretation quantum theory reality one underlying quantum mechanics physics order existence 
+Chapters:
+1: 46_Interpretations of Quantum Theory: Physics Meets Philosophy
+--------------------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,485 @@
+
+Throughout this work we have emphasized the influence of Aristotle, perhaps more so than any other 
+(Western) philosopher - even relative to his teacher Plato.  His importance and relevance as it relates to the 
+development and evolution of Western philosophy, which of course we cover in depth herein, stems not just 
+from the sheer breadth and depth of his work, but also because to no small degree his work sits at the very 
+heart of, and in many respects provides the foundation for, Western philosophy itself.  For example, the very 
+word we use to describe the philosophical discipline regarding the scope and boundary of knowledge, i.e. 
+epistemology, derives from Aristotle - from the Greek epistêmê which is a term that runs through the very 
+heart of Aristotle's philosophical system.  Epistēmē in turn comes to us from the Latin sciencia, which in turn 
+of course is where our word Science comes from.  
+Aristotle's philosophical system not only provided guidance and strategies for categorizing all the possible 
+different domains of knowledge in and of themselves, but also included a very detailed and comprehensive 
+system for identifying the requisite properties, or characteristics, of a thing that are both necessary and 
+sufficient to provide the complete picture of what a thing truly is - a system of ontology in today's 
+philosophical parlance.  This aspect of his philosophical system, sitting at the very heart one could argue, is 
+his notion of being qua being, a phrase that is derived from the Greek óntōs, which of course is where 
+modern (Western) philosophy derives the term ontology from to begin with.  So in a very concrete way, lines 
+can be drawn directly from many core Western philosophical constructs and terms right back to Aristotle - 
+and Plato of course, who typically gets a little more credit than his student.    While perhaps this may seem 
+like a bit of an exaggeration, with Aristotle having lived so long ago and he having lived in an era where so 
+little was known about how the world actually works, from the very beginning of rational (literary) discourse 
+really, nonetheless in looking at Aristotle's works, and again his epistemological and ontological frameworks 
+in particular, one cannot discount not just his lasting influence on Western philosophy, but also the 
+extraordinary persistence of his intellectual framework's applicability and relevance - even today.
+As we've discussed before, Aristotle divided all knowledge - or again Science, into three fundamental and 
+exhaustive branches: 
+I.	the theoretical:: knowledge for knowledge's sake, which included, according to Aristotle, the 
+fields of mathematics, physics or natural philosophy, and first philosophy  or metaphysics, 
+II.	the practical:: which concerns conduct and goodness in action at the individual and socio-
+political level, i.e. ethics and socio-political philosophy and theory, and 
+III.	the productive which aims at the production of useful or beautiful objects and includes such 
+disciplines as the arts - e.g. music, theater, etc. - and craftsmanship such as ship building or the 
+construction of homes or tools, as well as the "art" of rhetoric as well.  
+
+With Aristotle then, we find not only the origins of the word "science", but also the intellectual framework, 
+approach and terminology, within which it's study in the aggregate was to be approached, again 
+epistemology, one of the cornerstone disciplines of modern Philosophy.  For philosophy, philosophia in the 
+Greek, in all its forms throughout antiquity in the Mediterranean, even after the period of Roman influence, 
+was for the most part structured around the framework, and terminology, that was used by Aristotle, despite 
+the significant influence Plato's works had on the Hellenic philosophical tradition.  Furthermore, it is primarily 
+from this (Hellenic) philosophical tradition - in terms of approach, scope, methodology and terminology - 
+that our modern University system in the West is sourced, referred to as academia, sometimes even as 
+simply the "Academy", which of course also traces its source back to the Hellenic philosophical tradition, 
+derived directly from the name of the most famous philosophical school in antiquity, namely the Academy, 
+which was founded by Plato circa 387 BCE, some three years after Aristotle was born.  To say that the basic 
+underlying intellectual framework of the West is primarily Hellenic then, despite the 2500 years or so that 
+have gone by since it was first established - by Plato and Aristotle primarily - would in no way be 
+overemphasizing the point.  Without the Hellenic philosophical tradition, or even if it had taken a different 
+form or used a different language or even a different set of words to describe certain key terms, our 
+intellectual landscape in the West would be almost unrecognizable.
+Having said that however, it is undoubtedly the theoretical branch of knowledge for which Aristotle is best 
+known - what included both his physics and metaphysics, Aristotle's first philosophy, which in turn subsumes 
+what we today call theology.  In antiquity however, the existence of God - or gods as the case may be - was 
+considered to be so self-evident, such an elementary part of reality and the universe, that a separate 
+discipline or branch of knowledge for its study was not warranted or even considered really.  As such it is in 
+Aristotle's Metaphysics, as distinguished from Physics proper, from which we source Aristotle's theology 
+primarily, with theos, or God, being represented as the rational deduction of the so-called first, or unmoved, 
+mover.  Aristotle's metaphysics in turn is probably best characterized by his epistemology, which as outlined 
+above rests quite squarely on this doctrine of the four causes.  Aristotle's theory of causality then, when 
+supplemented with his concept of being qua being which underpins his metaphysics and his ontology - in fact 
+not only defines his ontology but establishes the terminology for the discipline itself, i.e. óntōs from which 
+"being" comes from in being qua being - when combined with his notion of epistêmê in terms of not just 
+definition but in terms of its boundaries and scope, effectively comes together to make up Aristotle's 
+epistemology, establishing the intellectual framework and language more or less that seeded modern 
+Science, some two thousand years before Newton.  One could say even that ontology as a discipline begins 
+with Aristotle, although antecedents lay with Plato no doubt.  For it is being that Aristotle is most concerned 
+with throughout his Metaphysics, which in turn inform his category theory and establish the boundaries of 
+existence, which in turn come to define knowledge.
+However, one could make a case though, that with respect to theology at least, we have a very solid 
+metaphysical foundation established with Aristotle with the notion of God, i.e. theos, firmly rooted in not 
+only his ontology as it were, but his epistemology as well - rooted in the very foundations of his notion of 
+being qua being as a logical deduction as it were to his metaphysics of change.  This is undoubtedly what 
+attracted the Muslim falṣafa to his work, with Aristotle's first mover‎ fitting quite nicely into their monistic 
+theological narrative, the basis for the break with Christianity to a large degree, whose doctrine of the Trinity 
+and their notion of hypostatic union of God with Jesus they viewed as being inconsistent with monism as an 
+abstract theological principle which they held was more accurately depicted in Muḥammad's theology - as 
+depicted in the Qurʾān which forms the basis of Islam of course.  Plato's theology, in contrast, shows much 
+more dualistic tendencies, as we see in the Timaeus for example, with Being and Becoming being presented 
+as the two primordial, eternally existent, intellectual first principles - i.e. arche - upon which his metaphysics 
+(if we may call it that) is constructed primarily.  And while his Demiurge and World Soul in the Timaeus 
+provide the theological and metaphysical framework for the Neo-Platonic Divine Intellect, or Nous, the Neo-
+Platonists clearly preferred Plato in a more diluted and synthetic form as his theology came to be understood 
+in Neo-Platonism to which again Arabic falṣafa clearly felt a great affinity. 
+Upon reflection however, one could argue that we can find an intellectual latch as it were to the mystic 
+experience in Aristotle's notion of being qua being, as the underlying potentiality (pun intended) of being in 
+and of itself - not as a descriptive metaphysical principle which is more or less what being qua being denotes, 
+but as a direct experience of being in its actualized form as it were - in a more Platonic theological sense as 
+Being - although non-differentiated or qualified with any of the basic metaphysical categories for example 
+that would be necessary conditions of any more material (or to use Aristotle's terminology substantial) being 
+or entity.  This no doubt is how the Neo-Platonists conceived of their concept of the One, which provided the 
+ontological and metaphysical primordial construct from which the universe itself emerged (seen as a 
+fundamentally intellectual organism in the Neo-Platonic tradition) as well as provided them with a mystical 
+grounding as well - as a principle that not only could be, and should be, conceptualized, but one in fact that 
+can be, and again should be, experienced.
+This notion of the mystic experience - the experience of the very ground of being itself (what in the 
+Upanishads is referred to as Satcitānanda) is not really alluded to specifically in either the works of Aristotle 
+or Plato, however we do nonetheless find a fairly sophisticated and well thought out conception of God, or 
+theos, as an extension to their respective metaphysics - even if Plato's account of him (the Demiurge, or 
+divine craftsman, in the Timaeus) is presented as more of a myth than a rational explanation necessarily, 
+what he refers to specifically as a "likely story", in contrast to the more rational conception of God that we 
+find in Aristotle who argues for the existence of a primordial principle, an unmoved or first mover, which he 
+equates with God, i.e. theos as a rational deduction.  As he describes in Metaphysics, the unmoved mover is 
+the penultimate requisite rational deduction as it were, a necessary condition of existence itself.  Although 
+interestingly, in both the cosmogonic accounts of Plato and Aristotle, despite their fundamental differences 
+in style and determinative strategy, it can be said that God - however one arrives to the requisite conclusion 
+of his existence as it were - is nonetheless motivated by Love, i.e. Eros, in order to not just bring about the 
+creation of the universe, to set it into motion as it were according to Aristotle, but also in its preservation as 
+well, as we see reflected in the notion of emanation which rests at the heart of Neo-Platonic theology, a later 
+development but still fundamentally Platonic.
+With respect to identifying a different ontological and epistemological model in order to support a more 
+profound and robust understanding of the universe within which we live, while Aristotle's philosophy is 
+certainly attractive in many ways, some might have a problem with leaning too much on a system of 
+philosophy that is so old and outdated as it were, and perhaps even in its complexity.  And even despite its 
+epistemological flexibility, Aristotle doesn't weigh in on the mystical experience at all really, even Plato only 
+glances on the subject here or there.  But clearly there is a mystical thread that runs through the Hellenic 
+philosophical tradition though, as it shows itself with the Gnostics especially and with the Neo-Platonists a 
+little less directly perhaps.  But again, we do not find this in Aristotle's work necessarily, relegating the mystic 
+wisdom to the realm beyond reason, even if unintentionally.  While the author doesn't necessarily agree with 
+this criticism with respect to the outdated and complex nature of Aristotle's epistemological and ontological 
+framework in light of a modern adaptation and utilization, we do however see the value in offering at least 
+one other metaphysical framework as an alternative to the prevailing Western worldview of objective 
+realism, or (following Pirsig) subject-object metaphysics - given its inherent limitations that we have explored 
+at length in this work.  And that is Pirsig's Metaphysics of Quality, which although has been dealt with in 
+some detail in prior Chapters in this work, is worth nonetheless revisiting within the context of summarizing 
+this intellectual journey so to speak as we look for a more modern ontological framework to replace the 
+prevailing Western worldview given again its inherent limitations.   
+
+Pirsig's first work was Zen and the Art of Motorcycle Maintenance: An Inquiry into Values.  The book, from a 
+philosophical point of view, is an excursion into the reasons, and ultimately a search for a solution, for what 
+he considers to be a fundamental lack of what he refers to as value in the West.  The story that he narrates in 
+this book, which is one of non-fiction essentially, follows his journey across the country on a motorcycle with 
+his son along with a couple that he is friends with.  A contrast is drawn throughout between his approach to 
+maintaining his motorcycle, one that is characterized by Quality (as he defines it toward the end of the book), 
+and the approach his friend takes to maintaining his motorcycle, which is one of carelessness (in Pirsig's 
+terminology Valuelessness) more or less.   We are told towards the end of the book that the impetus for 
+the book is based upon an "epiphany", or "mushroom" of ideas which came to Pirsig, or the figure of 
+Phaedrus in the book, which originated from a seed thought around the basic intuitive, i.e. non-classical or 
+non-empirical, nature of hypotheses in and of themselves, despite their importance to the Science, a purely 
+empirical enterprise - a quandary for sure.  This epiphany in turn led him to question the very foundations of 
+(classically Western) Science, which of course rests squarely on the ability to conceive of a hypothesis, a 
+fundamentally non-Scientific construct in and of itself, which is then tested for "validity" which in turn one 
+way or another moves Science forward, i.e. the very essence of the notion of scientific progress.  
+What Pirsig found, or what he "realized", was that at the very foundation of scientific empiricism sat a non-
+classical, non-Western (quite Eastern in fact) notion of what can perhaps be best described using the 
+terminology of this work as divination, an intuitive conception of a given hypothesis that somehow 
+distinguishes itself, or is distinguished or divined as the case may be, out of the potentially infinite number of 
+hypotheses that could potentially form the basis, or starting point, of a given scientific experiment.  This 
+"intuitive" or "non-scientific" nature of hypothesis divination is illustrated by the Newton and the apple 
+phenomenon.  Newton - the father of Classical Mechanics for which the discipline is named in fact, i.e. 
+Newtonian Mechanics - in the tale that surrounds his discovery of gravity, is grounded in a fundamentally 
+intuitive epiphany of understanding that quite literally "fell" out of the tree in front of him.
+According to Pirsig, this notion of the intuitive, divinatory quality of hypotheses creation just sort of sits there 
+outside of Physics, outside of what he refers to as the citadel of science, as a phenomenon that just 
+"occurred" and yet at the same time was integral to the process and discipline of Science itself.  For some 
+reason, before Pirsig at least, no one considered that this was odd and somehow contradictory, or that it 
+reflected a limitation or flaw in the underlying scientific empiricist model and conception of the Western 
+intellectual landscape, that the source of the very basis of Science itself, sat outside the intellectual model 
+that it clearly was such an integral and essential part of.  Parallel to this journey across the country on 
+motorcycles, Pirsig intersperses philosophology - a term that Pirsig uses in his second book Lila: An Inquiry 
+Into Morals to describe his inquiry and study of philosophy itself, i.e. literally "the study of" philosophy - with 
+the story of a character who he introduces as Phaedrus , a name that is taken from Plato's Dialogue of the 
+same name, and who as the reader sees over the course of the narrative is actually an earlier version of Pirsig 
+himself.  In this context, Pirsig sets the stage for the ultimate problem he is trying to get to the bottom of, 
+one which he again he perceives to fall along the Eastern and Western worldview divide as well, and one 
+which gets to the very root of what he perceives to be a fundamental drawback, and limitation, of Western 
+empiricism which is reflective more or less of the Western worldview, at least as how it is conceived by Pirsig 
+- a worldview which he believes sits at the very heart of the problem of the lack of what he refers to as value 
+in the West - hence the subtitle of the work, i.e. An Inquiry into Values.  
+One the one hand, his friends' approach and mindset with respect to their motorcycle is purely "objective", 
+or again "utilitarian" (i.e. "Western") and they see no need to look after their motorcycle as they would a pet 
+or a child for example.  On the other hand, Pirsig critiques this mindset throughout and in contrast 
+approaches the maintenance of his motorcycle from a more "holistic" or "integral" vantagepoint (i.e. 
+"Eastern") in which the motorcycle is understood not just as an object that serves a particular function, but 
+also as an extension of himself and to which he maintains a "relationship" that he strives to be "harmonious" 
+with and as such should be looked after and nourished in a sense, just as one would approach a plant for 
+example.  Ultimately it is Pirsig's principle of Quality from which this perspective is derived, but this term is 
+really only fully appreciated and defined toward the end of the book.  This dichotomy of approach to 
+maintaining this "thing", i.e. the motorcycle, becomes the very catalyst for what Pirsig sees as the basic 
+problem underlying the Western (vs. Eastern again) worldview and is reflective of the very basic lack of what 
+he calls Value in Western society.  This dichotomy fits quite well with one of the major themes of this work, 
+i.e. that the "Western" fundamental conception of reality, objective realism, lacks something very basic and 
+fundamental regarding the true nature, or description, of reality, a worldview that is juxtaposed with the 
+"Eastern", or holistic, worldview, which to a certain degree, just like Pirsig's Quality, becomes almost 
+undefinable in its penultimate, purest, form.  Hence Pirsig's search for a model which captures both and 
+"bridges the gap" as it were, which ultimately runs directly analogous with one of the major themes of this 
+work -  although we draw the lines around mysticism, epistemology and ontology primarily whereas Pirsig 
+draws them around metaphysics, value and morality essentially.  
+Pirsig ends up deciding on the word Quality, to crystalize this distinction in mindset, from which his 
+Metaphysic of Quality is derived of course.  The definition Pirsig gives for Quality, one that he presents as he 
+is pressed by his colleagues to give one (he was a teacher of Rhetoric at the time at the University of 
+Bozeman when his initial seed thoughts related to his so-called epiphany germinated): 
+
+Any philosophic explanation of Quality is going to be both false and true precisely because it is a philosophic 
+explanation.  The process of philosophic explanation is an analytic process, a process of breaking something 
+down into subjects and predicates.  What I mean (and everybody else means) by the word quality cannot be 
+broken down into subjects and predicates.  This is not because Quality is so mysterious but because Quality is so 
+simple, immediate and direct.
+
+"The easiest intellectual analogue of pure Quality that people in our environment [academia] can understand is 
+that 'Quality is the response of an organism to its environment' [he used this example because his chief 
+questioners seemed to see things in terms of stimulus-response behavior theory].  An amoeba, placed on a 
+plate of water with a drip of dilute sulfuric acid placed nearby, will pull away from the acid (I think).  If it could 
+speak, the amoeba, without knowing anything about sulfuric acid, could say 'This environment has poor 
+quality'.  If it had a nervous system it would act in a much more complex way to overcome the poor quality of 
+the environment.  It would seek analogues, that is, images and symbols from its previous experience, to define 
+the unpleasant nature of its new environment and thus 'understand' it. 
+
+
+So here we find that Quality then to Pirsig, is an undefinable "thing", and yet at the same time, is a very 
+"real" thing.  This notion of Quality can be understood as aligning, epistemologically at least, with Plato's 
+theory of forms, as reflected in the idea that for example that it is self-evident that pure beauty, virtue, or 
+goodness or badness (or even "chairness" or "tableness") are in fact "real" things, even if they defy 
+explanation or definition and even if they do not necessarily exist in the "objective" or "empirical" sense.  It is 
+from this notion of the inherent reality or these forms or ideas in fact, that not only provide the metaphysical 
+foundations of Plato's idealism, but also provide the foundations of Plato's epistemology - his theory of 
+knowledge - as knowledge to Plato, as outlined in the Meno and the Phaedo but also to a lesser extent in the 
+Phaedrus, is viewed as a form of recollection, or anamnesis, which arises upon the contemplation or 
+understanding of any thought, idea or object.  In fact, at one point Pirsig even maps the notion of Quality to 
+the Dao, running through the initial verses of the Dàodé Jīng and replacing the word Dao with either 
+"Romantic Quality", "Classic Quality", or simply Quality at various points, noting the quite perfect fit that his 
+Metaphysics of Quality has with the fairly opaque notion of the Dao which rests at the very heart of the 
+Chinese philosophical tradition. 
+And from this initial notion, and associative relevance and importance, of Quality, Pirsig derives his 
+Metaphysics of Quality, which in its original conception in Zen and the Art of Motorcycle Maintenance is a 
+trinity of sorts - with Quality as the basic and ontological primordial concept sitting at the top of the 
+metaphysical hierarchy as it were, and under it resting two different aspects, or types, of Quality - the first is 
+what he refers to as Romantic Quality, or preintellectual reality, which is "non-intellectual", or "right brained" 
+as he puts it.  Romantic Quality includes the domains of the arts for example and is the domain from which 
+direct experience of things such as beauty, virtue or justice emanate or originate from.  The second aspect of 
+this Quality is what he calls Classic Quality which corresponds to what he calls intellectual reality.  It is out of 
+Classic Quality for example from which "Western" analytical models emerge and under which he delineates 
+two distinct categories - one which he calls subjective reality, or mind, and another which he refers to as 
+objective reality, or matter. 
+After much of Pirsig's philosophology is complete in Zen and the Art of Motorcycle Maintenance, and after he 
+has effectively described Metaphysics of Quality as an alternative model, i.e. metaphysics, that can (and in his 
+view of course, should) supplant subject-object metaphysics as the predominant intellectual model in the 
+West such that values, or value, can become an integral and fully synthesized aspect of a more expanded 
+description of reality rather than as an entity, a concept, that sits outside of the metaphysical model as it 
+were, i.e. subject-object metaphysics, he follows the journey of this figure Phaedrus toward his ultimate 
+demise.  As Phaedrus struggles to articulate and explain Quality to his peers in academia - defending his 
+Metaphysics of Quality against various critics from the Academy - he is confronted with the difficulty of trying 
+to distinguish between, and establish the relative importance of, rhetoric versus dialectic, in the context of 
+the way these two terms and ideas are presented in Plato's Phaedrus as reflective of two very important 
+philosophical and intellectual constructs in Hellenic philosophy.  As he deeply contemplates the problem, he 
+ends up quite literally losing his mind in some sort of wave of thought, ending up completely catatonic in a 
+hotel room for several days without even the ability to control his bodily functions - after which perhaps not 
+surprisingly, he is institutionalized and, as we find out later in his second book, ultimately subjected to 
+electroshock therapy such that his "sanity" can be restored.  
+Pirsig's journey then in Zen and the Art of Motorcycle Maintenance, both intellectually as well as physically, 
+ends up culminating in the creation of the Metaphysics of Quality - as it is initially conceived as a solution to 
+his problem of the lack of values in modern Western society - as an alternative "way" of looking at the world, 
+an alternative perspective or worldview, a metaphysics as it were, that integrated this notion of Quality 
+directly into the intellectual paradigm as opposed to it resting "squarely" outside of it, thereby supporting 
+and reinforcing this notion of value as an integral part of the world.  But he's not done yet as it turns out, and 
+despite the success of Zen and the Art of Motorcycle Maintenance as a "cult classic", it is some time before he 
+revisits the topic again in his second work, entitled Lila: An Inquiry into Morals first published in 1991.  With 
+Lila, and its subtitle as "An Inquiry into Morals", Pirsig looks to further elaborate upon his Metaphysics of 
+Quality as a practical, intellectual, tool and expand it to encompass not just values, but arguably the broader 
+notion of morality.  In Lila, Pirsig narrates his journey on a boat down the Hudson River where he picks up a 
+travel companion, a woman named Lila who is of what we might call "loose" moral character.  
+As he looks to defend his notion of Quality, and in turn attempt to answer the question as to whether or not 
+Lila has Quality, he is thrust into the world of morality and ethics generally speaking.  In doing so, he morphs 
+his Quality that he defined in Zen and the Art of Motorcycle Maintenance from Romantic and Classic into 
+static (lower case) and Dynamic Quality.  In this new model, Dynamic Quality is the very ground of existence, 
+and again represents a precognitive state of awareness before any "intellectualizing" or any sort of 
+intellectual map of the world is applied to an "experience".  Static Quality on the other hand, represents the 
+basic underlying intellectual patterns that ground the world and experience into a rational, organized (set of) 
+framework(s) that allow us to subsist and evolve as individuals and as a society as a whole.  These static 
+patterns, static domains of Quality as it were, he sees as spread across four, dependent and hierarchical 
+domains - inorganic, biological, social and intellectual.  They all build off each other and to a certain extent 
+feed off, or build off, of the lower forms.  
+He provides the analogy of a computer system to explain how these four domains of static Quality work 
+together and coexist, where at the lowest level you have electrical circuitry, where 0s and 1s effectively tell 
+the computer "what to do", and at a level just higher than this you have the mother board where basic 
+machine level instructions, what used to be referred to as assembly language, is compiled and given to the 
+lower level electrical circuitry from the higher level language that sat above it.  At this higher level, was the 
+operating system, the software that controls the hardware end to end and sits behind all of the software 
+programs that run on the computer, translating these higher-level instructions from these programs into 
+machine code which is then translated into electrical circuitry (1s and 0s) which tell the machine "wat to do".  
+In this model at the highest level, we have programs and software, which interfaces at the operating system 
+level, and provide the actual intelligence of the machine.  It is the software and programs that we interface 
+with that give the machine practical value, but this is only possible because it builds off of, and out of, the 
+lower level interfaces and modules that do all the translational, lower level work, i.e. the static patterns of 
+Quality. 
+Static Quality works in the same way, where these inorganic domains provide the ground of existence and the 
+intellectual and foundational building blocks for the organic world, and the organic world provides the 
+framework for the social, and the social provides the groundwork for the intellectual.  But in his model, 
+"higher" levels of static patterns, i.e. higher levels of static Quality, represent more evolved and more 
+mature, more moral states of being, and as such represent greater, or more significant and higher patterns of 
+value.  This is why for example that a Doctor is morally obligated to kill germs or bacteria that threaten the 
+life of a human being, because we value the human organism more so than we do the bacteria that is 
+threatening its existence.   The same can be said of social patterns Quality, individual lives can be - and in 
+his model should be -  sacrificed for the good of a society or nation.  And in turn a society should be sacrificed 
+for the good of intellectual principles, which of course provides the justification, the rational justification, for 
+revolutions and in particular for the migration toward more democratic forms of government across the 
+globe in the last century or so.
+Pirsig believes this intellectual framework of coexistent, somewhat mutually exclusive but at the same time 
+exhaustive, categorization of static Quality patterns, or elements of Being as it were in the Platonic sense, 
+answers and solves many modern intellectual dilemmas - like mind-body dualism, Fate vs Free Will, and 
+others.   The entire framework he creates is driven by values, or at the highest level of his metaphysics, 
+Quality - i.e. what is of the highest value, that which is most "good", is that which survives, but the alignment 
+the system provides, quite elegantly we might point out, for making moral judgments is extraordinary to say 
+the least.  Perhaps the most poignant example he gives of how this intellectual framework is different from, 
+and more powerful than, subject-object metaphysics is that it helps to explains Darwin's notion of survival of 
+the fittest, what has come to be known as natural selection.  To Pirsig, this mechanism defies explanation to a 
+large extent - what is it that makes something more "fit" to survive?  In his model however, the more 
+advanced version of Metaphysics of Quality (Metaphysics of Quality 2.0 we might call it)  he finds a much 
+more rational and elegant explanation.  As organisms evolve, using Dynamic Quality as the driving force 
+primarily, that which is the "life force" behind mutation itself at the biological and genetic level, give rise to 
+these genetic mutations, fundamentally Dynamic Quality driven "events" as it were, which then are 
+integrated into the biological static Quality patterns of existence which in turn provide the stability and 
+structure, the underlying static pattern of order, within which these various "mutations" will either drive and 
+evolve the species forward, or they will be discarded as non-useful.  
+In Pirsig's model - and this is where we find ourselves back in Hellenic philosophical land (again) - it is the 
+good mutations that survive or persist in that they facilitate the survival of the species, facilitate reproduction 
+in some way, whilst the bad mutations ones are rejected by the relevant static order pattern.  And while 
+Pirsig does not point it out as such, this is almost eerily akin to Plato's notion of the Good, as the basic 
+principle which underpins and form, the basic building block of matter - in Plato's idealistic metaphysics at 
+least.  As such, Pirsig's Metaphysics of Quality 2.0 as it has evolved in Lila, is a moral framework as well, 
+moving beyond values as an organizing principle or theme as it were, as powerful and strong a metaphysical 
+concept as that is in and of itself, into the domain of morality and ethics, almost by accident, or perhaps 
+better put as a natural byproduct of, an extension, of the notion of value as he understands it.  For morality is 
+most certainly a value based framework - at least from a metaphysical point of view - just one that is 
+conditioned, or structured, along specific socio-political, and perhaps even religious (and again ultimately 
+metaphysical, as in Kant's metaphysics of morals for example) grounds.  
+In other words, to progress at any level of the static Quality continuum is a value judgment in an absolutely 
+moral sense.  So the idea of morality, which is representative of a fundamentally static Quality pattern at the 
+biological (human) level of existence, can now be extended to all forms of life - as the ultimate driving force 
+of natural selection in and of itself.  Furthermore, these value judgments can then be applied toward not just 
+biological static Quality patterns, but also can be understood as applying to inorganic patterns as well, to 
+social and political frameworks and even to intellectual ones, with the whole continuum of static Quality 
+patterns resting and building off of each other in a modular way (again the computer system analogy) but all 
+governed by the same principle - not just value or Quality, but morality, our Platonic Good or Best. 
+Now that he has fully explored the Metaphysics of Quality 2.0 in many respects, that the notion of Dynamic 
+Quality and static Quality have been fully defined and explained, and the latent power of the model, the new 
+metaphysics as it were, is understood in particular with reference to, and is illustrated by, its extension from 
+not just values, but also morality, he then goes on to attempt to provide some sort of reference point to his 
+notion of Quality, what is it "like", to further illustrate its qualities and characteristics even if it lacks 
+definition.  And it is here where Pirsig's work ties directly into this work in terms of not just intent, and 
+intellectual progression, but also somewhat unintentionally and coincidentally, in conceptual crystallization 
+or elucidation as well - i.e. he seems to end up at the same place we do, although his journey is from the top 
+down whereas ours here is from the bottom up you might say. 
+Pirsig equates his notion of Quality with arête, a word that is typically translated as virtue and represents one 
+of the very fundamental principles in the Hellenic philosophical tradition with respect to not only ethics and 
+morality, but also socio-political philosophy as well - that is to say, a society and/or nation built on virtue, or 
+excellence, at the individual as well as social level.  He then follows this word back etymologically along the 
+Indo-European philological path to Sanskrit, the oldest of the Indo-European languages that runs closest to its 
+theoretical parent Proto-Indo-European, and lands on the principle - again primarily using etymology and 
+philology as his guide - Ṛta, which means "cosmic order" or "truth" which is one of the very fundamental and 
+grounding principles of Upanishadic philosophy.  Ṛta is a somewhat more generic and more primordial 
+theological principle than the Greek arête however, evolving in the later more mature Indian philosophical 
+tradition into the notion of dharma, which of course is a key principle in both Buddhism as well as traditional 
+Hinduism, and  carries significant moral and ethical connotations with it - along with, and quite related to, its 
+connotation of the penultimate cosmic ordering, or balancing, principle.  And this is precisely what Pirsig is 
+getting at with his concept of Quality - his etymological journey that starts with arête that takes him through 
+Ṛta to dharma roots his Quality right at the very heart of the Indo-European (intellectual) family tree as it 
+were.  He had already provided his direct analogy of Quality with Dao in his first work , establishing the 
+grounds of the principle in the Chinese philosophical tradition, and now he grounds the principle in the 
+Western philosophical (really Indo-European) tradition as well, having followed philological and etymological 
+lines, through arête to Ṛta.
+But given the scope of this work, we can extend Pirsig's metaphysical, really philological argument, not just to 
+the Indo-European theo-philosophical landscape, but to the Egyptian, Persian/Indo-Iranian, and again even 
+the Chinese, theo-philosophical landscape as well.  We have the Ma'at of the Egyptians for example, which 
+equates to not just the arête of the Hellenic philosophical tradition, but to Nómos as well which is a 
+metaphysical offshoot of the Greek god Chronos, or Time, in their mythological tradition which is outlined 
+most eloquently by our beloved Hesiod.  Nómos in turn has a direct corollary in the Jewish Wisdom tradition 
+as the Torah, which is not only the name given to their scripture, but also is more generally translated as 
+"Law", aligning again very neatly to the Indian philosophical Ṛta.  We even find a corollary in the ancient 
+Indo-Iranian mythos, where we find the Zoroastrian Aša which to the ancient Persians signified universal, or 
+cosmic (and essentially theological) law as well.  And as we have already mentioned, we see the same 
+principle in ancient Chinese philosophy as Dao, which if we reach further back into ancient Chinese mythos 
+corresponds more or less to Tiān, from which for example we find the idea of the so-called "Will of Heaven", 
+or "Mandate of Heaven" - Tiānmìng - which underpins not only Chinese philosophy, but also underpins their 
+political establishment and authority for pretty much the entire duration of Chinese history as well.
+All of these ancient cultures in fact had a notion of cosmic or heavenly order that not only provided the basic 
+grounding principles and structure which brought the universe into existence, as reflected in the 
+cosmogonies and theogonies of all of these ancient civilizations, but also provided the rational justification for 
+moral order on the human plane of existence - the feather of judgment in the Egyptian mythos which 
+determines the path of the Soul after death or the Judeo-Christian concept of judgment which rests on this 
+idea of morality, or justice (philosophically speaking ethics) which is applied to the Soul to determine its final 
+resting place upon death - the scale of justice as it were.  Once we follow Pirsig's intellectual parallel down 
+through the chain of intellectual historical and evolutionary existence to the root of Indo-European culture, 
+we - through this work - can find it across all ancient civilizations in Eurasia as a, if not the, governing 
+principle of the universe, a principle which essentially provides the intellectual lever in the West for the pivot 
+from mythos to Logos, the latter principle which is equated to the very rational, and divine or cosmic, basis, 
+upon which all of the ancient theo-philosophical systems more or less rest as they evolve away from mythos 
+to philosophy and theology - from faith to reason you could say.
+This of course leads Pirsig to the conclusion that his notion of Quality is not necessarily a revolutionary idea 
+of "order" as such, but in fact one of the very oldest and primordial intellectual notions and principles of man 
+- Quality is the modern corollary to cosmic order, balance or harmony which underpins all of existence.  So 
+Pirsig basically states that he has effectively translated the very ancient and primordial Indo-European (and 
+by extension with this work, ancient Eurasian) cosmological and theological principles and construct of order 
+into modern Western intellectual, i.e. metaphysical, parlance.  Pirsig effectively reaches the same conclusion 
+that we do except he establishes his Metaphysics of Quality as a top down solution to a modern problem in 
+the West of a society that lacks the notion of values and morality and any sort of rational basis for ethics 
+really.
+The author conversely sees the same problem but approaches the solution from the bottom up as it were, 
+looking at how the ancients viewed the world - before this problem of values, morality and ethics manifests - 
+and seeing where we in the West went astray.  But we both in fact reach the same conclusion, or at least 
+follow the same thread - Pirsig comes up with a new intellectual framework whereas the author looks back to 
+the ancient intellectual frameworks, in particular those of Plato and Aristotle, as a way to overcome the very 
+same problem which we both agree is a byproduct of subject-object metaphysics, the predominant 
+worldview of the West which underpins the belief of the power of mathematics as the "language of God" as 
+it were which underpins modern Physics (Classical and Quantum) and which is the driving force behind the 
+Scientific Revolution which in turn drove a wedge between Religion and Science that philosophers such as 
+Kant, Pirsig, myself and others have attempted to bridge ever since. 
+So, while Dynamic Quality defies definition and lays outside of these static Quality intellectual patterns, these 
+static Quality intellectual patterns rely on Dynamic Quality to evolve and continue to persist, for they would 
+die out if it were not for the Dynamic Quality element, that which gives the fuel to the fire of static Quality 
+patterns as it were.  Dynamic Quality in Pirsig's Metaphysics of Quality then represents the very ground of 
+existence, the source of reality and existence itself - that which moves the whole framework of natural 
+existence forward, and he as such equates it not just with precognition, but also with the mystical experience 
+as well.  Dynamic Quality works in conjunction with these static Quality patterns as a sort of Yīn-Yáng, 
+concepts that in some sense counterbalance and complement each other, intellectual speaking.  
+But mysticism can at least be mapped, or intellectually equated to, a principle in Pirsig's ontology, i.e. Quality 
+as understood within the context of his Metaphysics of Quality - understood as the very ground of 
+preintellectual existence itself, Dynamic Quality, which can be viewed as Plato's Being in its most pure and 
+essential form as it were, as understood in Upanishadic philosophy as Satcitānanda.
+In perhaps a great irony however, despite the revolutionary metaphysical and philosophical work that Pirsig 
+accomplishes with his Metaphysics of Quality, Pirsig falls short of establishing a metaphysical, or 
+epistemological, grounding of the mystical experience in and of itself - an epistemological grounding, some 
+sort of rational explanation, to the experience that Phaedrus has in that hotel room which he describes as a 
+sort of intellectual drowning, from which the Metaphysics of Quality more or less was born, is fundamentally 
+lacking, perhaps by design.  However, and Pirsig readily admits this, while Dynamic Quality can be equated 
+with the experience of pure awareness or consciousness that is such a hallmark of the Eastern, mystical theo-
+philosophical systems - the very forefront of existence, pure intuitive awareness, before any sort of 
+intellectual paradigm is applied - he readily points out that in modern Western culture there is no way to 
+really discern between madness and psychotic illness (as he was diagnosed with of course) and the reality of, 
+or state of, pure awareness which is the hallmark of the mystical experience as reflected primarily in Eastern 
+philosophical traditions.  From any perspective really, at least from Pirsig's somewhat jaded perspective, 
+there is simply one person who behaves or believes such a thing and as such the states themselves are 
+almost entirely subjective - as soon as more than one person, or a group of people believe or practice a thing, 
+then it becomes a "social" or "cultural" phenomenon - what's typically referred to as a cult in most cases. 
+Pirsig does however suggest that his system of static hierarchy, i.e. static Quality, provides an intellectual 
+framework wherein the insane and the mystic can in fact be distinguished from each other.  That is to say, 
+the two states can be distinguished in terms of value, or morality - the state which provides a greater 
+intellectual value would in turn be deemed to be held of higher moral or ethical significance than prior 
+intellectual patterns.  This value judgment in turn would be in juxtaposition to the determination of value 
+with respect to the experience of one who is mentally ill, an experience that would not be deemed 
+intellectual significant in any way and therefore of no inherent intellectual value in and of itself.  Regardless 
+however, Pirsig leaves out this last metaphysical missing link as it were - either by design or perhaps because 
+he felt that he was on too unsure ground to tackle the subject - leaving the topic as it were for the present 
+author to (attempt) to complete, establishing the last link in the chain of reality to allow for the very ground 
+of existence itself to be incorporated back into the ontological, metaphysical and ultimately theological 
+model as it were - as it had in fact been for thousands of years prior to the introduction of (Western) 
+philosophy which flung it asunder so to speak.  
+
+While morality and ethics, and even the notion of God, can be subsumed under Reason - as is reflected in the 
+theo-philosophical systems of Pirsig, Kant, and Aristotle to name but a few of the most influential of these 
+systems - these models still nonetheless have significant limitations with respect to metaphysics, ontology 
+and the study of Being itself which invariably leads to the classic Western intellectual domains of theology 
+and mysticism, two seemingly irreconcilable domains.  When we look at Platonic, Upanishadic or Pirsig's 
+philosophy, really theo-philosophy, we find that they have a metaphysical advantage over their standard 
+Western counterparts (i.e. subject-object metaphysics within which modern Psychology, and in particular 
+Freudian psychology, squarely rests) in that despite their lack of specificity with respect to theological 
+matters, they do not reject mystical experience as false or outside of the domain of knowledge necessarily.  
+They, like any theo-philosophical system in the history of man that does not deny the supranatural, suggest 
+that the domain of the mystic is beyond any sort of intellectual paradigm and as such is beyond definition - 
+linguistically speaking.  This is in fact consistent with every mystical tradition of the East where instead of 
+these traditions refusing to define it, they - like Plato in fact - describe what it is "like", provide analogies as 
+it were.  And these analogies are effectively aligned with, and in many cases equivalent to, the mythos from 
+antiquity.    
+And herein provides the link to, and ultimate purpose and true meaning behind, ancient mythos, the very 
+ancient narratives and tales of gods and men and the creation of the world that ending up transforming and 
+evolving into philosophy.  These were at their core systems of analogy and metaphor, designed to facilitate 
+the understanding of the supranatural, the realm of gods and spirit, even if it was recognized that the truth of 
+these realms was beyond the intellects ability to fully define it.  Like the story of creation in the Timaeus, a 
+likely story, ancient mythos is designed to facilitate the understanding of the mystery of creation, and the 
+mystery of nature and the mystery of life and existence really (from whence our word mystical is derived of 
+course), but also at the same time served the purpose of binding together a people and society, providing at 
+some level the foundations of "culture", and perhaps even in some sense a civilization.  How a people, a 
+culture or society answered the great and most important questions regarding the mystery of the universe 
+and the creation of man on Earth in many ways determined who you were, which tribe you belonged to.  This 
+is the true meaning and import, and ultimately metaphysical and ontological power, behind these very 
+ancient words that were thought up at the very beginning of (their respective) civilizations to capture and 
+explain this mystery, the greatest mystery - words like Satcitānanda, Brahman, Tiān, and Dao, and in the 
+Hellenic philosophical tradition Logos which effectively represents the ordering and creative principle of God 
+in the Judeo-Christian theology.  
+While these terms defy definition, and in many cases are described or explained only in the most esoteric 
+verses of very ancient texts - the Upanishads, the Dàodé Jīng, the Yìjīng for example - they nonetheless give 
+us an inkling, a hint, a metaphor and analogy for the true nature of Being which rests beyond not just the 
+physical domain but even the intellectual domain itself - cosmogony and theology as brothers in arms as it 
+were rather than one subsuming or replacing the other.  The same can also be said of Logos and mythos, they 
+should be seen to complement each other rather than one subsuming the other which is typically how they 
+are viewed, again at least in the West.

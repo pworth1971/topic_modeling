@@ -1,0 +1,528 @@
+
+The Enlightenment no doubt represents one of the most transformative periods in the history of civilization.  
+While it was primarily an intellectual (really philosophical) movement, with a locus in 8th century Europe, it is 
+rooted in intellectual developments that took place a century or two prior during the so-called Scientific 
+Revolution, when quite literally the model of the universe was overturned, and a new age of Science was 
+ushered into Europe, challenged the authority of the Church which had reigned supreme for over a thousand 
+years.  
+While the Enlightenment Era is identified primarily with intellectual (mainly philosophical) developments, it 
+also represented a period of great social and political change and upheaval as well, providing the intellectual 
+basis for, and driving force to a large degree, liberalist and democratic movements that underpinned both the 
+French and American Revolutions in the latter part of the 18th century, forever changing the political 
+landscape of the West by advancing democratic and liberal ideals and relegating authoritarianism and 
+absolute monarchy to history.  These revolutionary movements, again the French and American, to some 
+degree represented the culmination of the socio-political changes that had swept Europe in the preceding 
+century, as exemplified with the English revolution some one hundred years earlier or so, called the "Glorious 
+Revolution" or the Revolution of 1688, which led the establishment of the Bill of Rights and the dissolution of 
+absolute monarchy in the British kingdoms and basically established the system of Parliament and 
+constitutional monarchy that persists to this day in Great Britain.  
+The intellectual grounding of the Enlightenment however had been well established for a few centuries, more 
+prominently reflected in the works oh philosophical giants such as Francis Bacon (1561 - 1626), René 
+Descartes (1596 - 1650), and John Locke (1632 - 1704) - the so-called "Father of Liberalism" - among others.  
+Their work, combined with the revolutionary scientific advancements from which the Scientific Revolution 
+got its name, set the stage for what arguably represents the very height of Western philosophy.  
+In order to gain a better understanding of the intellectual themes that dominated the academic landscape in 
+the centuries leading up to, and just prior to, the Enlightenment, let's look a little more closely at the specific 
+advancements, and intellectual conclusions, that are characteristic of the Scientific Revolution - two 
+basically, each of which contributed significantly to the shift in worldview that was such a hallmark of that 
+period in European, i.e. "Western", history: 
+	Astronomy: the adoption of the so-called "heliocentric" model of the universe which was put forth 
+first by Copernicus in a work that was published upon his death in 1542 (the famous De 
+revolutionibus orbium coelestium) which was then validated and confirmed by Galileo - for which he 
+was famously convicted of heresy and imprisoned - which overturned the standard geocentric model 
+of the universe which had held sway more or less since the time of Aristotle and Ptolemy some two 
+thousand years prior, and 
+	Physics: the establishment of the basic laws of Physics - what came to be known as Classical 
+Mechanics (as distinguished from Quantum Mechanics) as outlined by Newton in perhaps the most 
+influential text in the history of Science, the Philosophiæ Naturalis Principia Mathematica, at the end 
+of the 17th century (in 1687).
+
+The revolutionary advancements in these two domains, effectively re-wrote the foundations of not just 
+science, what was then referred to as natural philosophy, but of the intellectual landscape as whole, tearing 
+at the foundations of religious orthodoxy in their inversion of the geocentric model of the universe which had 
+held sway for over a thousand years to which the Church looked to as the basis for their authority to a large 
+degree.  
+The advancements also came together to further reinforce the mode of thought, the way of thinking, that 
+had underpinned the developments themselves - what we refer to throughout as causal determinism and 
+objective realism, the two cornerstone presumptive worldviews or philosophical systems which, along with 
+its sibling the scientific method, provided the impetus, the intellectual fuel as it were, for both the empiricist 
+and the rationalist philosophical movements which were the most dominant philosophical strains during the 
+Enlightenment, the Age of Reason, from which Kant emerges as the most influential figures.
+All of these intellectual, scientific and even socio-political developments however, both from a philosophical 
+and theological perspective, led precipitously to what is referred to sometimes as "the crisis of the 
+Enlightenment" - where the very advancements that these developments ushered in were under threat due 
+to the source of their foundations as it were, i.e. reason itself.  For as many Enlightenment Era philosophers 
+were beginning to conclude, not surprisingly perhaps, was that if empiricism and rationalism in and of 
+themselves were to be held in the highest regard with respect to establishing truth and knowledge, then not 
+only was the existence of God called into question, but also the very nature and basis for morality and ethics 
+as well, for these fields had since time immemorial been integrally linked to theology, a field whose 
+foundations had effectively been destroyed.  As Rohlf puts it:
+
+The problem is that to some it seemed unclear whether progress would in fact ensue if reason enjoyed 
+full sovereignty over traditional authorities; or whether unaided reasoning would instead lead straight to 
+materialism, fatalism, atheism, skepticism, or even libertinism and authoritarianism. The Enlightenment 
+commitment to the sovereignty of reason was tied to the expectation that it would not lead to any of 
+these consequences but instead would support certain key beliefs that tradition had always sanctioned. 
+Crucially, these included belief in God, the soul, freedom, and the compatibility of science with morality 
+and religion...
+Yet the original inspiration for the Enlightenment was the new physics, which was mechanistic. If nature 
+is entirely governed by mechanistic, causal laws, then it may seem that there is no room for freedom, a 
+soul, or anything but matter in motion. This threatened the traditional view that morality requires 
+freedom. We must be free in order to choose what is right over what is wrong, because otherwise we 
+cannot be held responsible. It also threatened the traditional religious belief in a soul that can survive 
+death or be resurrected in an afterlife. So modern science, the pride of the Enlightenment, the source of 
+its optimism about the powers of human reason, threatened to undermine traditional moral and 
+religious beliefs that free rational thought was expected to support. This was the main intellectual crisis 
+of the Enlightenment. 
+
+It is within this period of "crisis", where the foundations of Western civilization had been rocked by 
+advancements in our understanding of the universe which were almost diametrically opposed - quite literally 
+actually - to how we had viewed the world since the very dawn of Western civilization, that provided the 
+foundations for the "Science", that Immanuel Kant (1724 - 1804) emerges as not just one of the towering 
+intellectual giants of the Enlightenment, but one of the most influential philosophers in the history of 
+Western civilization.   
+Kant lived and published toward the end of the Enlightenment, providing him with a unique opportunity and 
+insight into the developments of the century or two that had preceded him and of course the ability to 
+summarize and synthesize said intellectual achievements and advancements - a task which he took on with 
+great vigor.  Kant is also arguably one of the last of the philosophers in the classic Hellenic conception of the 
+term, i.e. philosophia, where the discipline of philosophy represented more than just Philosophy proper and 
+sat at the very forefront of the Academy, i.e. academia, rather than representing the quite narrow field that 
+Philosophy has been relegated to today.
+He came from a fairly modest background and although not wealthy by any means, nonetheless were well 
+educated, Kant himself having - not unlike most educations from that time period - a solid foundation in the 
+Classics, in the native Latin of course, which was the language that may of his works were published in in fact, 
+again not uncommon for that time period.  He spent almost all his life in the city of Königsberg, a 
+metropolitan city on the coast of Baltic Sea in North-Eastern Europe that had been the capital of Prussia (the 
+precursor to the modern German state) before it moved to Berlin in 1701.  Despite its distance from the then 
+German (Prussian really) cultural and intellectual center of Berlin, Königsberg nonetheless remained during 
+Kant's life a relatively flourishing metropolitan city, and most certainly - as reflected quite profoundly with 
+Kant himself - was an intellectual center not just for Prussia, but for all of Europe as well during the 
+Enlightenment.   
+Kant attended the University in his hometown of Königsberg, known as the Albertina, and outside of a few 
+years after University where he was away from Königsberg, taught at the University of Königsberg for his 
+entire academic career - first as an unpaid lecturer starting in 1754 at the age of 30, and then from 1770 on 
+as the Chair in Logic and Metaphysics until he retired from the University in 1796 at the age of 72.  He died in 
+1804, just shy of his 80th birthday .
+
+ 
+Figure 32: Immanuel Kant, lecturing to Russian officers-by I. Soyockina / V. Gracov 
+
+Kant's publishing career started primarily in his 30s at around the time that he began teaching at the 
+University of Königsberg (1754).  It was not until some 27 years later that he published Critique of Pure 
+Reason being published (1781) at the age of 57, after having supposedly spent some 10 years on it (he 
+published a major revision in 1787).  Critique of Judgment, the third and last of his "Critique" works, which 
+were his most influential, did not come until 1790 when he was 66.  Kant's primary contributions to 
+Philosophy, although he made contributions to the field of Anthropology as well),were in the area of 
+epistemology and metaphysics, both of which represent the primary focus of his first major work, the Critique 
+of Pure Reason which he published first in 1781 without too much fanfare and not altogether terribly well 
+received, and then a second revision in 1787.  
+The impetus of the thrust of Kant's work was not only his deep concern related to the current state of 
+philosophy and theology, knowledge really in a broader sense, but also more specifically as a response to the 
+writings of the Scot David Hume (1711 - 1776), whose philosophy reflected a somewhat radical form of 
+sentimentalist empiricism, arguing that there was no rational basis for morality or ethics, and attacking the 
+discipline of metaphysics as an intellectual endeavor in and of itself with respect to its ability to establish any 
+degree of certainty regarding knowledge or truth, i.e. epistemology.  
+
+As a step back to outline the prevailing philosophical trends that shaped Kant's philosophical enterprise, the 
+two predominant philosophical trends during the Enlightenment - each of which contributed to in their own 
+way, and provided the intellectual foundations for, the Scientific Revolution, and each representing a 
+philosophical extreme relative to the other - were the rationalists which held that reason in and of itself was 
+not only real and true, but that it was also the ultimate benchmark for knowledge and truth as abstract 
+principles in and of themselves , and the empiricists who held that it was only through experience - sensory 
+experience more specifically (which included its logical extension through the use of various technical 
+apparatus) - that knowledge could be established and ultimately that truth could be discerned.    
+The rationalists, reflected perhaps most prominently in the works of the René Descartes and Gottfried 
+Wilhelm Leibniz (both of which perhaps not surprisingly were mathematicians) are typically characterized by 
+their epistemological position which  equates knowledge and truth with reason, that it is by reason alone that 
+knowledge and truth are ultimately defined and bound.  As such, the rationalist philosophical tradition is also 
+characterized by the belief that reality itself has a fundamental, inherently rational structure.  This universal 
+rational structure then, which exists outside of man, or the mind, is not only inherently real, it is in fact the 
+only thing that can truly be said to be real - a reality which is reflected in, and to a large extent equated with, 
+the rational faculty of man.  Like for example the axioms of mathematics of the underlying eternal truths of 
+geometry for example whose existence, in contrast with the empiricists, could be established without 
+physical evidence and/or empirical proof. 
+The empiricist epistemological position in contrast, reflected perhaps most prominently in the a strain of 
+thought dominated primarily by English, and Scottish, philosophers Francis Bacon, John Locke and David 
+Hume, is that in order for something to be known, it must be established as an empirically valid, as 
+established by some form of the scientific method for example.  That is to say, the truth of said thing is 
+established and verified either by the senses directly, and/or their extension via scientific measurement 
+apparatus, effectively aligning the field of knowledge itself with the objective realist and causal determinist 
+positions that underpinned the new Science as it were.  John Locke for example, famously held that the mind 
+at birth was like a "blank slate", i.e. a tabula rasa, born without any innate knowledge inherent to it, and it 
+was only through experience - as driven primarily through sensory perception of the external world along 
+with the various associations and presumptions that came along with said experience - that knowledge of the 
+world in any way shape or form could be established. 
+Rationalism as a philosophical theme can be traced as far back to the very origins of Western philosophy, 
+with Pythagoras and Plato considered, at least in retrospect, to fall squarely in the rationalist camp.  
+Empiricism on the other hand, from an historical perspective viewed within the context of the longstanding 
+tradition of Western philosophy, while clearly a byproduct of Newtonian Science as it were, nonetheless had 
+well established roots in the Hellenic philosophical tradition as well, primarily in its materialistic variant, 
+traces of which can be found as far back as the Pre-Socratic philosopher Democritus (460 - 370 BCE) but 
+perhaps most pronounced, and influential, in the system of philosophy that is attributed to Epicurus - i.e. 
+Epicureanism,  which was not only popular in the Hellenic world, but also established a significant following 
+during the Roman period as well, more or less on par from an influence and popularity perspective as the 
+(Platonic) Skeptics and the Stoics, arguably the three most widespread and popular philosophical schools in 
+pre-Christian Mediterranean antiquity.    
+From an historical perspective then within the history of Western philosophy, the Enlightenment Era 
+rationalists can, and should, be seen within the context of a long line of idealists that betrayed varying 
+degrees of skepticism (and ultimately rationalism) that dated back to the very root of the Hellenic 
+philosophical tradition itself, Pythagoras to Socrates and Plato most notably.  This idealistic bent in turn was 
+juxtaposed by, and was very much influenced by and evolved alongside of, the materialist philosophical 
+tradition which evolved into what became known as empiricism during the Enlightenment.  In Hellenic 
+philosophy, this materialistic epistemology was most notable with the Epicureans, but traces could also be 
+found in the Peripatetic tradition left by Aristotle as well as the Stoics, each of which held similar views as 
+Locks for example with respect to knowledge and its relationship to mind.
+Kant's philosophical work represented to a large degree - outside of the effort to try and establish the 
+rational foundations for morality and ethics, and theology more broadly - an attempt to synthesize, and 
+ultimately supersede, these two extreme philosophical positions which had taken such strong roots in the 
+Enlightenment and to a large degree had been taken to their most extreme forms and as such threatened the 
+very fabric of society.  
+In this context, Kant's role and contributions to modern Western philosophy can be viewed as similar to 
+Aristotle, who although rejected Plato's idealism from an epistemological perspective nonetheless 
+incorporated his doctrines as part of his overall intellectual framework as universals which although did not 
+have existence in and of themselves nonetheless provided the basis, metaphysically, of the materialistic 
+world which was characterized primarily by matter and causality - his doctrine of substantial form more or 
+less.  Aristotle's position can be viewed as a hybrid, or perhaps better put, synthetic approach to that offered 
+by the skeptics who represented the Socratic idealist position and the materialists who were represented first 
+by Democritus and then later by the Epicurean school, the latter of which although came after Aristotle were 
+nonetheless influenced by him to no small degree and represented a more materialist bent than the 
+Peripatetic school which Aristotle founded.  
+This ancient philosophical argument, which manifested itself in the Enlightenment as the conflict between 
+the rationalists and empiricists, falls along similar philosophical grounds - the rationalists in the most 
+extreme holding that a priori knowledge not only exists but in fact is the very source of all knowledge itself, 
+and the empiricists holding that all knowledge is derived from sensory experience, i.e. a posteriori 
+knowledge.  The terminology that Kant uses to distinguish between the empiricist and rationalist 
+epistemological positions in fact - i.e. a priori, literally "from the prior", versus a posteriori or "from the 
+latter" - is actually derived from the Hellenic philosophical tradition, derived from perhaps the most 
+influential mathematical treatises in the history of Western philosophy, Euclid's Elements.  In this broader 
+sense, a priori knowledge is aligned with basic mathematical or geometric postulates that are considered 
+postulated, or true by their very nature, like for example a basic mathematical formula such as 2 + 1 = 3, and 
+a posteriori knowledge in turn, very much like it does quite explicitly in the empiricist philosophical tradition 
+in fact, represents a truth that depends a set of predefined facts or truths - e.g. empirical evidence, data or 
+predefined postulates - from which its verity can be established or deduced.  Ultimately though, a posteriori 
+knowledge is effectively defined by how it differs from, sits in contrast to, it's theoretical sibling a priori 
+knowledge more so than anything else. 
+The problem Kant had with each of these respective epistemological positions was that in his estimation he 
+could not establish the existence of anything a priori from an epistemological perspective through reason 
+(induction) alone, or through any sort of objective realist approach where said knowledge existed 
+independent of that tool from which perception and understanding itself took place.  Hence, he felt the need 
+to reject both schools of thought and come up with a new philosophical foundation which reconciled the 
+empiricist and rationalist positions, while at the same time providing a complete, cohesive and consistent 
+rational foundation for knowledge (and metaphysics) within which the existence of morality and ethics could 
+be safely established.
+At least this is how Kant framed the distinction between the two schools, which in turn provided the 
+intellectual foundation for not only his epistemological framework, but for his metaphysics and philosophy as 
+a whole, resolving the philosophical quagmire as it were by inverting the perspective from which knowledge 
+and truth, in all its forms, could be established with any degree of certainty.  
+
+Hitherto it has been assumed that all our knowledge must conform to objects.  But all attempts to extend our 
+knowledge of objects by establishing something in regard to them a priori, by means of concepts, have, on this 
+assumption, ended in failure.  We must therefore make trial whether we may not have more success in the 
+tasks of metaphysics, if we suppose that objects must conform to our knowledge. This would agree better with 
+what is desired, namely, that it should be possible to have knowledge of objects a priori, determining something 
+in regard to them prior to their being given.    
+
+
+And herein is the so-called Copernican revolution of philosophy which Kant is attributed, or to which he 
+attributes himself, that instead of having knowledge conform to objects, objective reality must conform to 
+our knowledge.  
+As Kant himself explains next in the same passage, this inversion of thought is akin to Copernicus's theoretical 
+inversion regarding our solar system from the prior century, adapting the theoretical framework to better 
+match the problem, rather than continuing to further modify and/or change a theoretical framework that is 
+effectively wrong and therefore leads to all sorts of irrational or preposterous conclusions.  
+
+We should then be proceeding precisely on the lines of Copernicus' primary hypothesis.  Failing of satisfactory 
+progress in explaining the movements of the heavenly bodies on the supposition that they all revolved round 
+the spectator, he tried whether he might not have better success if he made the spectator to revolve and the 
+stars to remain at rest.  A similar experiment can be tried in metaphysics, as regards the intuition of objects.  If 
+intuition must conform to the constitution of the objects, I do not see how we could know anything of the latter 
+a priori; but if the object (as object of the senses) must conform to the constitution of our faculty of intuition, I 
+have no difficulty in conceiving such a possibility.  Since I cannot rest in these intuitions if they are to become 
+known, but must relate them as representations to something as their object, and determine this latter through 
+them, either I must assume that the concepts, by means of which I obtain this determination, conform to the 
+object, or else I assume that the objects, or what is the same thing, that the experience in which alone, as given 
+objects, they can be known, conform to the concepts.  In the former case, I am again in the same perplexity as 
+to how I can know anything a priori in regard to the objects.  In the latter case the outlook is more hopeful.    
+
+His strategy philosophically then, how he arrived at this Copernican revolution as it were, was to search for 
+how it might be possible from a metaphysical perspective to establish the verity of any a priori knowledge, 
+and then only after this has been established, construct an epistemological and again metaphysical 
+framework around these assumptions rather than the other way around.  In so doing, he concluded that it 
+was impossible to conceive of any a priori conceptual building blocks if one assumes that the material world 
+is ontologically primary, or even if we presumed that the rational world was essential and primordial.  If 
+however, one places cognition itself as the primary ontological and metaphysical building block, it then 
+becomes feasible to entertain the idea of a priori concepts that provide coherence to this mentally 
+dependent, human cognitive, reality.  Once he switches this perspective, he is able to establish both a 
+rational as well as objective reality, but only through the presumption that their reality, their inherent 
+knowledge, is a function of the human mind.  
+From this vantage point then, Kant's philosophical pursuits then - his metaphysical enquiry - can be viewed as 
+a search for what in fact, if anything, could be considered to represent a priori knowledge, if anything, 
+stripping away all possible preconceived notions on what could be said to truly exist and how truth itself, 
+knowledge, could be defined as a function of the human condition rather than in relation to it.  As a result, 
+Kant concludes that there is no way to establish any a priori knowledge, anything that could be said to be 
+true in and of itself, outside of our ability to conceive said truth.  In other words, in Kant's epistemology, 
+which he effectively equates with metaphysics , knowledge is defined neither by reason itself in the 
+abstract (as held by the rationalists), nor by objective reality in and of itself (as held by the empiricists), but in 
+fact is ultimately bound and determined by our mind and its cognitive capacities from which the truth of 
+those two seemingly opposed realms of knowledge are both rooted.
+In this theoretical model - this inversion as it were of knowledge of objective reality being dependent upon, 
+conforming to, concepts, rather than knowledge being dependent upon the objective, or rational, reality - 
+Kant asserts that we can now possible establish certain a priori principles and tenets to facilitate the creation 
+of a new epistemological framework as it were where a priori concepts are tied not to reality in and of itself, 
+but to the cognitive and conceptual framework that is reflected in the human mind, which in Kant's 
+philosophy represents the ultimate determinative factor by which knowledge is, or can be, defined.  
+
+Looking at Kant's philosophical work, and influence, as a whole from an historical context, outside of his 
+contributions to epistemology and metaphysics (as he defines it) as reflected in the first of his Three Critiques, 
+his work as whole is perhaps best looked at as it relates to the contents and material that he covers in each of 
+the Three Critiques, as they were published over the course of his academic and publishing career which in 
+turn reflect the arc of his philosophical thinking and philosophical evolution one could say.  
+It is again in response to this radical form of Enlightenment empiricism, in particular again as reflected in the 
+works of Hume, that motivated Kant to embark on what is by far his most influential work, the so-called First 
+Critique, the Critique of Pure Reason.  As the title suggests, Kant explores the extent to which what he refers 
+to as a priori propositions, eternal truths like for example mathematical axioms, are possible, providing the 
+rational grounds as it were for metaphysical enquiry and in turn a new intellectual framework for the 
+discipline of Philosophy itself.  In this context then, Kant undertakes his philosophical enterprise, attempting 
+to not only save morality (and ethics more broadly) from the clutches of causal determinism and objective 
+realism, but also in a more general sense Religion, God and the Soul, from Science itself which threatened its 
+very existence.
+The First Critique, by far the most influential of all of Kant's works, was the Critique of Pure Reason, which 
+again focused on, using Aristotle's terminology, the theoretical sciences or first philosophy.   This work was 
+followed by the Critique of Practical Reason, published in 1788, which delved into matters of practical 
+philosophy, i.e. Kant's philosophy of ethics and morality or using Kant's own terminology, his Metaphysics of 
+Morals.  
+To do this, Kant had to develop a comprehensive and cohesive model of the entire cognitive experience, as 
+described in the ensuing quotation for example, where Kant describes experience as a type of knowledge 
+which involves a specific faculty of the human mind which he calls understanding.
+
+For experience is itself a species of knowledge which involves understanding; and understanding has rules 
+which I must pre- suppose as being in me prior to objects being given to me, and therefore as being a priori.  
+They find expression in a priori concepts to which all objects of experience necessarily conform, and with which 
+they must agree.  As regards objects which are thought solely through reason, and indeed as necessary, but 
+which can never -- at least not in the manner in which reason thinks them -- be given in experience, the 
+attempts at thinking them (for they must admit of being thought) will furnish an excellent touchstone of what 
+we are adopting as our new method of thought, namely, that we can know a priori of things only what we 
+ourselves put into them. 
+
+Understanding then, along with sensibility and reason, as specific faculties of the mind that facilitate 
+cognition, come to form the basis of Kant's epistemological framework, a framework which now can support 
+the existence of a priori knowledge.  And this epistemological pivot as it were - from the real world having an 
+existence in and of itself (viewed either as fundamentally empirical or fundamentally rational) to the concept 
+of reality being ultimately determined and bound by the human mind, is what came to be known as the 
+Copernican revolution in philosophy.  This ontological inversion which placed the cognitive process at the 
+center of the epistemological universe, not only established the basis for his metaphysics, but also 
+established the grounds for a philosophical framework that allowed for the truth of the empiricists (objective 
+reality) and the truth of the rationalists (universal truths or non-objective knowledge), to peacefully coexist 
+within the same intellectual paradigm.  
+This idea of human autonomy as it came to be known, underpins not only Kant's metaphysics, but also his 
+practical philosophy - i.e. ethics - as well, the subject of his Second Critique, the Critique of Practical Reason.  
+From a metaphysical perspective, this notion of human autonomy rests upon the basic assumption of the 
+ontological precedence of the world of "appearances", really the world of the mind, over what might be 
+termed "objective reality", ultimately relying upon perception, understanding, reason and ultimately 
+judgment, as outlined in his Third Critique, as basic human faculties from which any and all knowledge must 
+be rooted in, providing the basic intellectual - and to a large extent psychological or conceptual - building 
+blocks of his philosophical system upon which he subsumes and supersedes both the empiricist and 
+rationalist perspectives.  
+From this perspective, Kant places the intelligible world - the world of mental constructs and abstractions 
+upon which theology historically had rested since the days of Plato - the Good or Best as a logical abstraction 
+of the form of forms - not above objective reality necessarily, but on the same ontological level as the reality 
+of the natural, or material, world, Aristotle's substantial form.  Both as it were, again at least from an 
+epistemological perspective, subservient and ontologically inferior to the cognitive experience itself, a 
+uniquely "human", autonomous, process which knowledge in all its forms is subjugated to.  
+While at first glance this might appear to be a step backward philosophically, pushing ideology and theology 
+further into the ontological backwaters per se, but this was a necessary result of the Copernican inversion 
+that he was forced to make to bridge the empiricist and rationalist philosophical divide as it were.  In other 
+words, in order for Kant to establish the truth of theology, i.e. God, as well as morality and more generally 
+ethics, principles that were under rigorous attack in philosophical and intellectual circles during the time 
+period that he was writing, on the same ontological and rational footing as natural philosophy, or Science, the 
+cognitive faculty, i.e. reason, had to be established at the very top of the epistemological food chain as it 
+were, transformed into the very source of knowledge itself.  
+In other words, in Kant's philosophy and metaphysics, the structure of our experience is determined by our 
+intellectual faculties, which in turn fundamentally defines and bounds knowledge - in both its empirical or 
+rational form - as opposed to the objective, or rational, world existing independent of any act of cognition or 
+experience in and of itself.  This perspective allowed for the epistemological reality of the natural world as 
+well as the rational world to coexist, but their existence - their reality and verity - existed only in relation to 
+the human mind which he defined as a collection of cognitive faculties that included perception (sensibility) 
+understanding and in the last word, a more refined and specific attribute of reason that he called judgment.  
+This "revolution" of perspective, this philosophical inversion as it were that subjugated both objective and 
+rational reality - objective realism and idealism - under the umbrella of a single philosophical system which 
+rested on perception of and by the human mind as the primary ontological principle as it were.  As such, 
+empirical reality as well as rational reality, as viewed by the empiricists and the rationalists respectively, 
+could in a sense both be true.  
+Furthermore, this inversion paved the way for the potential establishment of a set of a priori concepts which 
+framed said reality, a reality whose existence was a function of the human mind and our cognitive faculties.  
+To this end Kant establishes, very much like Aristotle before him , that all knowledge, be it objective or 
+rational, is structured in accordance to certain pre-ordained categories which are inextricably linked with the 
+human cognitive process from which all knowledge is again derived.  In Kant's metaphysics however, a 
+category is inherently related to, and intrinsically tied to, human cognition, representing a quality or attribute 
+of an entity or idea whose very existence depends upon consciousness  and the act of perception (sensibility) 
+along with understanding - independent of experience or objective (or rational) reality in an abstract sense.  
+Categories to Kant then, as again they were for Aristotle more than two thousand years prior, represent the 
+metaphysical bridge as it were between the materialists and the idealists - or in Enlightenment Era terms the 
+empiricists and the rationalists - providing the epistemological foundations upon which the truth of each 
+respective philosophical school could be established, rolling them up to the ontologically primordial notion of 
+human cognition upon which knowledge fundamentally depended upon in Kant's metaphysics.  As such Kant 
+referred to these categories in fact as ontological predicates, placing them square in the middle of an 
+epistemology that rested on human cognition which in turn employs categories to classify and 
+compartmentalize said knowledge.  Kant's categories then, again just as they were with Aristotle, were 
+prerequisites to the synthesis of our experience of not only the objective realm, but also the rational realm as 
+well, providing another intellectual building block as it were to bridge the gap between the empiricist and 
+rationalist epistemological divide.
+In the Critique of Pure Reason, Kant argues that is the human intellect which is the source of the laws of 
+nature and that these laws are not things in and of themselves and do not have existence outside of the 
+human mind as it were, and that in turn the mind is not in fact a tabula rasa, a clean slate, necessarily, having 
+within it, or inherent to it, certain a priori concepts or postulates, from which our knowledge of the natural 
+world which "appears" to be independent of us.  Although he confines knowledge to natural philosophy 
+(Science) and mathematics more or less, he is emphatic in concluding that mind makes nature and not the 
+other way around and that it's Impossible to extend knowledge to supernatural, super sensual world, outside 
+of the conditions of our own experience.  Kant's investigation resulted in his claim that the real world of 
+experience can only be an appearance, what he called a phenomenon, a term which he uses to refer to how 
+an object of knowledge appears to an observer which he juxtaposes with the concept of how things, objects 
+of knowledge, are in and of themselves, what he referred to as noumenon - the latter aspect of reality, 
+property of objects, things or beings, which is completely unknowable by any human, or animal, mind.
+In his Critique of Practical Reason he argues that morality does indeed stand on the same pure rational and 
+logical foundations as does theoretical philosophy, once one discerns and extracts reason itself from natural 
+philosophy and establishes the a priori notions which govern it, even if practical philosophy in and of itself has 
+no grounding in objective reality as bound by his theoretical philosophy.  That is, that morality, ethics is the 
+product of pure reason itself, is a byproduct of us being rational beings, and furthermore is predicated on the 
+belief in the immortality of the Soul, God, and the possibility of what he calls the "highest good", a theoretical 
+concept which is characterized by all rational beings behaving according to perfect morality, which he 
+equates with purely rational behavior, or according to the rules of pure reason.
+His Critique of Practical Reason deals with how world ought to be versus how it actually is and within this 
+context he establishes what he himself refers to as his Metaphysics of Morals.  For one of the other hallmarks 
+of Kant's philosophy on both the theoretical (metaphysics) as well as practical (ethics) fronts is the basic 
+assumption again of human autonomy - that both the reality of the world of "appearances", his theoretical 
+philosophy, as well as his metaphysics of morality, his practical philosophy, should be formulated based on 
+assumptions which are of and within the realm of human cogitation or being.  
+To Kant, the only intrinsically good thing is good will, or intention, moral law being the will of rational agents 
+based upon a pure rational foundation.  Kant's practical philosophy is rooted in, and fundamentally related 
+to, his Copernican revolution of philosophy which posits that all knowledge is a function of human cognition, 
+or the human mind, an organ which consists primarily of the faculties of sensibility (perception) 
+understanding, and then penultimately reason and judgment - the latter of which serves to provide a 
+teleological conception of existence that again, even though it cannot be said to exist in and of itself, 
+nonetheless provides an underlying meaning to our lives which serves the purpose of unifying morality and 
+natural philosophy.  His practical philosophy therefore was guided by the same principals, i.e. based upon the 
+presumptions and metaphysics, as his theoretical philosophy, resting on the notion of human autonomy 
+which presumes an intellectual foundation to morality and ethics without relying on any principles or 
+concepts external to, or independent of, the human being in and of itself. 
+Kant develops a notion of a categorical imperative based on notion of universality upon which all actions of 
+an individual, of a rational individual, should be based.  In other words, if an individual is governed by reason, 
+each action should be judged according to the standard where if everyone were to act in such a way would it 
+be good for society at large and would the act itself still have its implied meaning - for example telling the 
+truth or promises, if people were to not behave this way, were to lie to each other, the fabric of society 
+would not hold together.  If an action when universalized makes sense so to speak, then it is inherently moral 
+or ethical, Good, and if everyone behaved perfectly rational the world would be transformed into the 
+greatest of all worlds, Kant's perfect world akin to the utopia of Plato.  To Kant, the highest good is virtue 
+underpinned by happiness, the latter depending upon the former and the former dictated by reason, the 
+same standard which he uses to establish his epistemological foundations.
+In Kant's view, objective rational laws necessitate rational actions and the perfect rational man must behave 
+in a perfectly moral manner, similar in many respects to Stoicism from an ethical perspective.  Therefore, 
+there exists a collective good element of perfect, morally sound, actions, which rely on his principal of 
+universality as the definition of the perfect Good.  The theological conclusions he draws are that even though 
+no a priori knowledge of God or the Soul is possible, as existing in and of themselves, they do serve a very 
+practical value for if these beliefs did not exist there would be no metaphysical foundation for ethics and 
+therefore society at large would break down and there would be anarchy or chaos.  Morality then, in this 
+framework, depends upon the existence of Free Will as well as the immortality of the Soul and the existence 
+of God - these are morally necessary postulates, i.e. rational prerequisites to morality.  
+In other words, a belief in a perfect world, what again he calls the highest good, is a prerequisite for moral 
+behavior and actions.  Hence his categorical imperative which is dictated by pure reason where morality is 
+dictated and governed by reason, from which ultimately all duties and obligations as a human being and 
+member of society derive.  Categorical imperatives are absolute, unconditional requirements that must be 
+obeyed in all circumstances, i.e. acting according to the maxim of universalization which is based upon pure 
+reason, in contrast to hypothetical imperatives such as acting to quench one's thirst or to acquire knowledge 
+and understanding for example which are more subjectively defined.  Kant's ethics therefore is based upon 
+duty which in turn is a byproduct of us being rational beings.  
+
+The Critique of Practical Reason was followed by his last major work - the last of the Three Critiques - the 
+Critique of the Power of Judgment which was published in 1790 and was more or less the last of Kant's major 
+works, and of course the last of the Critiques, after which he retired from academic life a few years later in 
+1796.  
+In the Third Critique, Kant explores in depth the notion of teleology, or ends in and of themselves, specifically 
+as they relate to matters of aesthetics, or beauty, and again more broadly, purpose, theorizing that all such 
+intellectual acts if we may call them such, were a function of, or driven by, a relatively distinct cognitive 
+faculty that he referred to as judgment, a further delineation or derivative of the faculty of reason which he 
+outlined in his First Critique.  To Kant, as explained in his Third Critique, judgment is the last of the core 
+cognitive faculties which completes, or augments, the faculties that he outlines and explores in detail in his 
+First and Second Critiques, namely the sensible, which he refers to as perception and understanding, or 
+intellect.  
+The faculty of perception according to Kant was constrained, or bound by, objective reality - i.e. the material 
+world - whereas understanding - or again the intellect - was constrained by the intelligible world, 
+corresponding more or less to Plato's ideas or forms.  The sum total of perception, understanding and 
+judgment as the three core cognitive faculties come together to establish not only the basic epistemological 
+framework of Kant's metaphysics which he covers in his First Critique, but also represent the psychological 
+and metaphysical foundations of his practical philosophy which is covered in his Second Critique, as well as 
+his theology, or more specifically his teleology, which he covers in his Third and Final Critique.
+Judgment to a large extent provides the final overarching aspect of cognition which extends beyond his 
+practical and theoretical philosophical systems that he explored in his First and Second Critiques.  In his Third 
+Critique, Kant links the world of perception, understanding and appearances which are covered in his First 
+Critique - how the world actually appears as it relates to primarily the faculty of understanding - and the 
+Metaphysics of Morals, i.e. ethics, which he outlines in his Second Critique - how the world ought to be which 
+is governed by reason - with judgment, which sits atop both understanding and reason and provides meaning 
+to our existence.  It is through the power of judgment that we conclude that there is a purpose to life, and in 
+turn deduce the (theoretical at least) existence of God and the immortality of the Soul, from which all moral 
+and religious beliefs ultimately derive.  While the existence of God is not a fact in and of itself, as is true with 
+the meaning of life - again teleology - but these presumptions serve to guide human behavior and provide a 
+metaphysical and philosophical means to a better world.  Belief in an underlying purpose to the world, which 
+presupposes some sort of intelligent design, serves a purpose for humanity be it true or not.  Judgment 
+therefore connects Kant's theoretical and practical philosophical frameworks despite the metaphysical divide 
+between the two
+
+Kant's philosophical position has come to be known as transcendental idealism, positing that the human 
+experience of things, objects of reality, are a function of how these things "appear" to us, making the human 
+mind, the navigator and charioteer of the perceptory process, as the definer of the rules of the game so to 
+speak rather than declaring the existence of things in an absolute sense outside of this realm of mind.  That 
+doesn't necessarily mean that there is a physical reality that does not in fact exist independent of our 
+observation of said reality, (although this point is debated among interpreters of Kant's philosophy), but that 
+from our perspective the existence of this independent reality has no meaning and no bearing on us as 
+individual members of society and as individual human beings  Because our reality, everything we 
+understand, comprehend, perceive using our mind and intellect and our power to understand, is predicated 
+upon the metaphysical foundations of our mind itself, from which the ideas of time, space, depth etc. stem 
+from - not the other way around hence his analogy of the Copernican revolution of philosophy.
+
+By transcendental idealism I mean the doctrine that appearances are to be regarded as being, one and all, 
+representations only, not things in themselves, and that time and space are therefore only sensible forms of our 
+intuition, not determinations given as existing by themselves, nor conditions of objects viewed as things in 
+themselves.  To this idealism there is opposed a transcendental realism which regards time and space as 
+something given in themselves, independently of our sensibility.  The transcendental realist thus interprets 
+outer appearances (their reality being taken as granted) as things-in-themselves, which exist independently of 
+us and of our sensibility, and which are therefore outside us -- the phrase 'outside us' being interpreted in 
+conformity with pure concepts of understanding.  It is, in fact, this transcendental realist who afterwards plays 
+the part of empirical idealist.  After wrongly supposing that objects of the senses, if they are to be external, 
+must have an existence by themselves, and independently of the senses, he finds that, judged from this point of 
+view, all our sensuous representations are inadequate to establish their reality.  
+
+The transcendental idealist, on the other hand, may be an empirical realist or, as he is called, a dualist; that is, 
+he may admit the existence of matter without going outside his mere self-consciousness, or assuming anything 
+more than the certainty of his representations, that is, the cogito, ergo sum.  For he considers this matter and 
+even its inner possibility to be appearance merely; and appearance, if separated from our sensibility, is nothing.  
+Matter is with him, therefore, only a species of representations (intuition), which are called external, not as 
+standing in relation to objects in themselves external, but because they relate perceptions to the space in which 
+all things are external to one another, while yet the space itself is in us.  
+
+Kant's work and legacy in aggregate reflects deep analytical exploration into the very boundaries of not only 
+reason itself, but also the establishment of the rational foundations of morality and ethics, as well as the 
+importance of the role of judgment - as conceived of as a composite of aesthetics and teleology, i.e. "ends" or 
+"purpose" - in philosophical enquiry, the topics of his Three Critiques respectively.  It can be argued that Kant 
+held that, despite the evolution of the rationalist and empiricist schools of thought which had been a 
+hallmark of the Age of Reason up to that point, those that although done the world a great service by 
+establishing the rational underpinnings that drove the Scientific Revolution which helped upend the 
+longstanding authority of the Church over intellectual thought which had held sway over academia for 
+centuries, had nonetheless serious logical holes from his perspective, putting the study of theology itself - the 
+existence of God and the Soul - as well as the ethics and its close cousin morality, in serious jeopardy from a 
+philosophical perspective.  
+In perhaps one of the most famous and lasting quotations attributed to Kant he says, "I had to deny 
+knowledge to make room for faith", providing perhaps the most succinct rationale behind his entire 
+philosophical enterprise which represents his life's work and has left such a lasting impact on the West.  He 
+can be looked at as a Platonist to some extent given the skepticism that underlies his theoretical philosophy 
+but yet at the same time he does not explicitly deny the existence of the material world, he simply (or 
+perhaps not so simply) predicates its existence upon the cognitive capabilities of man, which when fully 
+explored and mapped out also provide the framework within which a belief in God and the Soul, and ethics 
+and morality, all hang together in a coherent system of metaphysics.
+Reason then, a function of mind, according to Kant, can give us the foundation of morality and theology as 
+well as Science, allowing for the recognition of the existence of God and the Soul, without them having to 
+rest on empirical and/or scientifically based proofs.  This approach, which is the hallmark of Kant's philosophy 
+in toto, is unique in that it allows for Science and Religion to co-exist.  Not on the same empirical foundations 
+necessarily which were such an important aspect of the evolution of natural philosophical development 
+during the Scientific Revolution, but co-existing within the same rational framework, subsumed within the 
+totality of Kant's metaphysics, perhaps one of the most elegant and extraordinary philosophical 
+developments not just in the Enlightenment, but in the history of Western philosophy.

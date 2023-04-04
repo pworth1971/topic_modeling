@@ -1,0 +1,483 @@
+
+Following the intellectual bread crumbs of Albert Einstein, let's try to understand how his revolutionary ideas 
+and theories of universal gravitation, the notion of spacetime, the establishment of the equivalence of mass 
+and energy, the necessary condition of the existence of a "frame of reference" as a fundamental aspect of 
+Physics, along with the revolutionary idea of the eternally fixed nature of the speed of light under all 
+measurement conditions formed the basis, ironically, of perhaps the most influential and revolutionary 
+theory in modern Physics - namely Quantum Theory, sometimes referred to as Quantum Mechanics 
+primarily to distinguish it from Classical Mechanics which obeys an entirely different set of rules and laws as it 
+turns out.
+Quantum Theory is the term used to describe the stochastic (i.e. probabilistic) mathematical models that 
+were developed in the early part of the 20th century to describe the "behavior", really the measurement of 
+specific "qualities" or "characteristics" for lack of a better description, of so-called "sub-atomic" particles, 
+what were initially referred to as corpuscles in the early Quantum Mechanics  academic literature.  Quantum 
+Theory has effectively turned the field of physics on its head for the last century or so as its underlying 
+theories and equations have proved to be accurate and have tremendous predictive power over and over 
+again through various experiments throughout the 20th century.  
+Despite its predictive power however, the basic underlying principles, assumptions and tenets of Quantum 
+Mechanics - mathematical models and equations which are fundamentally a) "probabilistic" and b) depend 
+upon an "act of observation" for the derivation of a specific measurement - fly directly and squarely in the 
+face, and essentially completely contradict, the basic causal, materialistic and deterministic assumptions 
+upon which both Classical Mechanics and Relativity Theory rest.  These underlying contradictions and 
+paradoxes have driven most if not all of the work in the field of Theoretical Physics since its inception in the 
+middle of the 20th century as researchers and mathematicians alike have struggled in vain to come up with 
+some sort of "unified" theory that bridges the conceptual and theoretical gap between the two models and 
+their inherent contradictory assumptions.
+What is even more interesting, and quite pertinent and relevant to this work in fact despite its primarily theo-
+philosophical bent, is that these theories have much to say - individually as well as holistically despite their 
+inherent incompatibilities - about what can be concluded about the nature of reality itself, the bounds of 
+physics as a discipline and field of study as it were, as well as potentially how "reality", however we choose to 
+define it, came into existence.  Furthermore, we shall find that in fact that our definition of reality ultimately 
+depends upon not just on the "physical scale" that we are looking at, but also (in somewhat of a circular 
+logistical fashion) upon what characteristic and qualities of this "reality" that we are actually measuring 
+which in turn to a large extent define the boundaries and assumptions of the "reality" that we are looking to 
+describe and explain, and "predict" which is what Physics is ultimately designed to do.  In this respect, and 
+perhaps unintentionally, 20th century Physics has contributed greatly, even if inconclusively, to the 
+resurgence of metaphysics, i.e. first philosophy.
+To begin, Classical Mechanics is based upon Atomic Theory, a conceptual framework established by Niels 
+Bohr in the early part of the 20th century which posited that atoms, the fundamental component of the 
+physical universe, were actually composed of a central, relatively massive nucleus, surrounded and encircled 
+by much less massive particles called electrons which orbited this nucleus.  This theory to a large extent forms 
+the intellectual basis for virtually our entire materialist modern-day view of "physical reality", i.e. the model 
+which underlies all of physics - Classical as well as Quantum.  Atomic Theory in its most basic and elementary 
+form posits that all matter, all substance or physical reality, is composed of these composite "things", 
+"elements" or "objects" which are referred to as atoms.  According to the theory, at least in its initial form, 
+atoms represent the fundamental building blocks of the entire physical universe and are, conceptually at 
+least, indivisible in nature.  
+Atomic Theory from this basic perspective can be traced back to ancient Hellenic philosophy in fact, as put 
+forth by some of the Pre-Socratic philosophers such as Democritus, Leucippus, and the Epicurean school from 
+the 6th and 5th centuries BCE.  The word "atom" in fact comes from the Greek word atomos which means 
+"indivisible".  In its earliest form as understood and articulated by these Pre-Socratic philosophers, 
+specifically the Epicurean school, the world consisted of indivisible atoms that moved through a universal 
+substratum of physical existence, i.e. the void or "ether", which was effectively defined as the basic 
+substratum of space through which these indivisible atoms moved.  It was believed that atoms joined 
+together in various combinations which was the explanation for the existence of the variety of things or 
+substances that existed in nature, animate and inanimate objects included.  It is important to point out and 
+recognize however that these atoms are primarily conceptual constructs - powerful and meaningful 
+conceptual constructs no doubt but still conceptual constructs.  For what we call atoms have been proven to 
+consist primarily of empty space even if they in toto are measurable constructs that have quantifiable "mass" 
+and "energy" and can be more or less distinguished from one another.  In one of the most illustrative and 
+powerful analogies that describe the amount of empty space that exists in an atom, it is said that if an atom 
+were the size of a football stadium, the nucleus would be the size of a pea at the center and the electrons 
+would be circling and whizzing around the outside of the stadium itself, everything in between would be 
+"empty", i.e. not contain any elements or particles of mass or velocity.  
+It wasn't until the end of the 18th century however, more than two millennia after the initial basic tenets of 
+Atomic Theory were put forth by the Ancient Greek philosophers, that physicists were able to expand upon 
+this theory and provide a more empirical and mathematical basis for these essential building blocks of 
+nature, building blocks which were eventually determined to be divisible in fact, and consisted of electrons, 
+protons and other even further divisible structures that are the basis of much study and debate in modern 
+particle physics.  The first of these developments was the law of conservation of mass, formulated by Antoine 
+Lavoisier in 1789, which states that the total mass in a chemical reaction remains constant, and the second 
+was the law of definite proportions, first proven by the French chemist Joseph Louis Proust in 1799 which 
+states that if a compound is broken down into its constituent elements, then the masses of the constituents 
+will always have the same proportions regardless of the quantity or source of the original substance.  
+Then, with the publication by James Maxwell in the work entitled Treatise on Electricity and Magnetism in 
+1873, it was shown that the interactions of both positive and negative charges that had been previously 
+thought of as two separate forces, i.e. electricity and magnetism, could actually be viewed as just one force, 
+what was subsequently referred to as electromagnetism.  This force which he "discovered" which was 
+described in detail by a series of complex mathematical equations, i.e. Maxwell's Equations, can be viewed as 
+the synthesis of four basic laws or principles which describe the force itself.  These are; 1) electric charges 
+attract or repel one another with a force inversely proportional to the square of the distance between them: 
+unlike charges attract, like ones repel, 2) magnetic poles, or states of polarization at individual points, attract 
+or repel one another in a similar way and always come in pairs: every "north" pole is yoked or conjoined to 
+an opposite counterpart or a "south" pole, 3) an electric current in a wire creates a circular magnetic field 
+around the wire, where its direction, clockwise or counter-clockwise, depends on the direction of the current, 
+and 4) a current is induced in a loop of wire when it is moved towards or away from a magnetic field.
+Then in 1897, J.J. Thompson discovered a particle, or corpuscle as he called it, that was some 1000 times 
+smaller than the atom as it had been estimated at the time.  Thompson didn't know it then but this corpuscle 
+that he had discovered was actually the electron.  Thompson's discovery was followed closely thereafter by 
+the discovery of a positively charged constituent of mass that rested in the center of the atom by Ernest 
+Rutherford in 1909, a student of Thompson.  Rutherford, building on the work of his teacher, discovered that 
+most of the mass and positive charge of an atom was concentrated in a very small fraction of its volume, 
+which he presumed to be its center, what later came to be known as the nucleus of the atom.  This result led 
+Rutherford to propose a planetary model of the atom where electrons of negative charge orbited around a 
+positively charged nucleus that again consisted of the vast majority of the mass contained in an atom.  
+Shortly after Rutherford's discovery, one of his students, Niels Bohr, landed on a more broad and well 
+defined model for the structure of the atom that leveraged findings in Quantum Mechanics (although the 
+field wasn't called that quite yet) and specifically some of Planck's work on quantization to further describe 
+and model the picture of the atom.  By studying the hydrogen atom, Bohr theorized that an electron orbited 
+the nucleus of an atom in very specifically quantifiable and particular, i.e. discrete, circular orbits with fixed 
+angular momentum and energy, with the electron's orbital "distance" from the nucleus being a function of its 
+energy level.  
+Bohr's theory clarified and shored up some of the basic shortcomings of the planetary model of the atom 
+proposed by Rutherford because it explained how atoms could achieve stable states, a shortcoming of the 
+prior work by Rutherford.  He further theorized, in one of the defining discoveries of 20th century and modern 
+Physics, that atoms could only make quantized leaps of energy states, and furthermore, when this change of 
+states occurred, light or energy was emitted or absorbed from or into the atom itself with a frequency 
+proportional to the change in energy state, explaining another phenomenon that was lacking in Rutherford's 
+planetary model of the atom and at the same time introducing, albeit unintentionally, the basic building 
+blocks of the Quantum Theory.  Essentially what Bohr discovered and contributed to Quantum Theory, 
+leveraging Plank's models in the quantized nature of radiation emission, was that electrons orbit neutrons in 
+the outer part of the atom corresponding to definite, discrete and fixed energy levels, and that when an 
+electron jumps from one discrete state to another, it gives rise to the emission or absorption of 
+electromagnetic radiation at a specific characteristic wavelength.   
+Atomic Theory as it stands today was later refined through works of many physicists in the fields of 
+electromagnetism and radioactivity, developments which further divided atomic structure and gave rise to 
+the term elementary particles, which refers to the subatomic particles we are most familiar with today, 
+namely electrons, protons and neutrons.  But the story doesn't end here.  Models in the world of Theoretical 
+Physics start to get complicated pretty quickly over the next few decades after this wave (no pun intended) of 
+discoveries in the early twentieth century.  And as the theories became more complex, and the experimental 
+results that they predicted become more expansive, comprehensive and verified, some very interesting and 
+revealing questions are posed about the fundamental nature of reality and the basic theoretical assumptions 
+that govern said reality that have still yet to be answered, a problem that Einstein himself spent the majority 
+of the end of his life trying to solve, unsuccessfully as it turns out.
+
+Quantum Mechanics is the branch of Physics that deals with the behavior or particles and matter in the 
+atomic and subatomic realms, or quantum realm so called given the quantized nature of "things" at this 
+scale.  So you have some sense of scale, an atom is 10-8 cm across give or take, and the nucleus, or center of 
+an atom, which is made up of what we now call protons and neutrons, is approximately 10-12 cm across.  An 
+electron, or a photon for that matter, cannot truly be measured from a size perspective in terms of Classical 
+Mechanics for many of the reasons we'll get into below as we explore the boundaries of the quantum world, 
+but suffice it to say at present our best guess at the estimate of the size of an electron are in the range of 10-
+18 cm or so.   
+Whether or not electrons, or photons (particles of light) for that matter, really exist as particles whose 
+physical size, and/or momentum can be actually "measured" is not as straightforward a question as it might 
+appear and gets at some level to the heart of the problem we encounter when we attempt to apply the 
+principles of existence or reality to the subatomic realm, or quantum realm, within the context of the 
+semantic and intellectual framework established in Classical Mechanics that has evolved over the last three 
+hundred years or so; namely as defined by independently existing, deterministic and quantifiable 
+measurements of size, location, momentum, mass or velocity.  The word "quantum" comes from the Latin 
+quantus, meaning "how much" and it is used in this context to identify the behavior of subatomic things that 
+move from and between discrete states rather than a continuum of values or states as is assumed and 
+fundamental to Classical Mechanics.  The term itself had taken on meanings in several contexts within a 
+broad range of scientific disciplines in the 19th and early 20th centuries, but was formalized and refined as a 
+specific field of study as Quantum Mechanics by Max Planck at the turn of the 20th century and quantization 
+arguably represents the prevailing and distinguishing characteristic of reality at this scale.
+Newtonian Mechanics, or even the extension of Newtonian Mechanics as put forth by Einstein with Relativity 
+Theory in the beginning of the twentieth century (a theory whose accuracy is well established via 
+experimentation at this point), assumes that particles, things made up of mass, energy and momentum exist 
+independent of the observer or their instruments of observation, and are presumed to exist in continuous 
+form, moving along specific trajectories and whose properties (mass, velocity, etc.) can only be changed by 
+the action of some force upon which these things or objects are affected.  This is the essence of Newtonian 
+Mechanics upon which the majority of modern day physics, or at least the laws of physics that affect us here 
+at a "human" or "cosmic" scale, is defined.  Theories and models of reality which as we have pointed out rest 
+upon, whether explicitly called out or not, the fundamentally philosophical assumptions that are best 
+described as objective realism and determinism.
+The only caveat to this view that was put forth by Einstein is that these measurements themselves, of speed 
+or even mass or energy content of a specific object, can only be said to be universally defined according to 
+these physical laws within the specific frame of reference of an observer.  Their underlying reality is not 
+questioned - these things clearly exist independent of observation or measurement, clearly (or so it seems) - 
+but the values, or the properties of these things is relative to a frame of reference of the observer change 
+depending upon your frame of reference.  This is what Relativity tells us.  So the velocity of a massive body, 
+and even the measurement of time itself which is a function of distance and speed, is a function of the 
+relative speed and position of the observer who is performing said measurement.  
+For the most part, the effects of Relativity can be ignored when we are referring to objects on Earth that are 
+moving at speeds that are minimal with respect to the speed of light and are less massive than say black 
+holes.  As we measure things at the cosmic scale, where distances are measured in terms of light years and 
+black holes and other massive phenomena exist which bend spacetime (aka singularities) the effects of 
+Relativity cannot be ignored however.   Leaving aside the field of cosmogony for the moment and getting 
+back to the history of the development of Quantum Mechanics, at the end of the 19th century Planck was 
+commissioned by electric companies to create light bulbs that used less energy, and in this context was trying 
+to understand how the intensity of electromagnetic radiation emitted by a black body (an object that absorbs 
+all electromagnetic radiation regardless of frequency or angle of incidence) depended on the frequency of 
+the radiation, i.e. the color of the light.  In his work, and after several iterations of hypotheses that failed to 
+have predictive value, he fell upon the theory that energy is only absorbed or released in quantized form, i.e. 
+in discrete packets of energy he referred to as bundles or energy elements, the so-called "Planck postulate".  
+And so the field of Quantum Mechanics was born.   
+Despite the fact that Einstein is best known for his mathematical models and theories for the description of 
+the forces of gravity and light at a cosmic scale, his work was also instrumental in the advancement of 
+Quantum Mechanics as well.   For example, in his work in the effect of radiation on metallic matter and non-
+metallic solids and liquids, he discovered that electrons are emitted from matter as a consequence of their 
+absorption of energy from electromagnetic radiation of a very short wavelength, such as visible or ultraviolet 
+radiation.  Einstein termed this behavior the photoelectric effect, and in fact it was for this discovery that he 
+won his one and only Nobel Prize in Physics in 1921  Furthermore, Einstein established that under certain 
+conditions and in certain experiments, light appeared to behave like a stream of tiny particles, not just as a 
+wave, lending credence and authority to the particle theories which had begun to be established to describe 
+the subatomic realm, i.e. quantum realm.  As a result of these experiments, he hypothesized the existence of 
+light quanta, or photons, laying the groundwork for subsequent wave-particle duality discoveries and 
+reinforcing the discoveries of Planck with respect to black body radiation and its quantized behavior. 
+Prior to the establishment of light's properties as waves, and then in turn the establishment of wave like 
+characteristics of subatomic elements like photons and electrons by Louis de Broglie in the 1920s, it had been 
+fairly well established that these subatomic particles, or electrons or photons as they were later called, 
+behaved like particles.  However, the debate and study of the nature of light and subatomic matter went all 
+the way back to the 17th century where competing theories of the nature of light were proposed by Isaac 
+Newton, who viewed light as a system of particles, and Christiaan Huygens who postulated that light behaved 
+like a wave.  
+It was not until the work of Einstein, Planck, de Broglie and other physicists of the twentieth century that the 
+nature of these subatomic particles, both photons and electrons, were proven to behave both like particles 
+and waves, the result depending upon the experiment and the context of the system which being observed.  
+This paradoxical principle came to be known as wave-particle duality and it is one of the intellectual 
+cornerstones, and in fact underlying mysteries, of the nature of the sub-atomic world and in turn one has 
+become one of the fundamental properties that underlie Quantum Theory  and distinguish it from Classical 
+Mechanics. 
+As part of the discoveries of subatomic particle wave-like behavior, what Planck discovered in his study of 
+black body radiation, and Einstein as well within the context of his study of light and photons, was that the 
+measurements or states of a given particle such as a photon or an electron had to take on values that were 
+multiples of very small and discrete quantities, i.e. were non-continuous, the relation of which was 
+represented by a constant value known as the Planck constant .  
+In the quantum realm then, there was not a continuum of values and states of matter as had been the 
+assumption upon which Classical Mechanics had been constructed, in the sub-atomic realm there existed not 
+a continuum of "physical existence", but instead bursts of energies and changes of state that were discrete, 
+i.e. had fixed amplitudes or values, which of course implied that certain states or amplitudes could in fact not 
+exist, representing a dramatic departure from the way physicists, and the rest of us mortals, think about 
+movement and change in the "real world", and most certainly represented a significant departure from 
+Newtonian Mechanics upon which Relativity was based where the idea of continuous motion, in fact 
+continuous existence, is a fundamental proposition upon which these models are predicated.  
+The classic demonstration of light's behavior as a wave, and perhaps one of the most astonishing and 
+influential physical experiments in the history of science, is illustrated in what is called the "double-slit 
+experiment".  In the basic version of this experiment, a light source such as a laser beam is shone at a thin 
+plate that that is pierced by two parallel slits.  The light in turn passes through each of the slits and displays 
+on a screen behind the plate.  The image that is displayed on the screen behind the plate as it turns out is not 
+one of a constant band of light that passes through each one of the slits as you might expect if the light were 
+simply a particle or sets of particles, the light displayed on the screen behind the double-slitted slate is one of 
+light and dark bands, indicating that the light is behaving like a wave and is subject to interference, the 
+strength of the light on the screen cancelling itself out or becoming stronger depending upon how the 
+individual waves interfere with each other.  This behavior is exactly akin to what we consider fundamental 
+wavelike behavior, for example like the nature of waves in water where the waves have greater strength if 
+they synchronize correctly (peaks of waves) and cancel each other out (trough of waves) if not.
+
+ 
+Figure 34: Classical illustration of the famous "double slit" experiment. 
+
+What is even more interesting however, and was most certainly unexpected, is that once equipment was 
+developed that could reliably send a single particle, an electron or photon for example, through a double-
+slitted slate, the individual particles did indeed end up at a single location on the screen after passing through 
+just one of the slits as was expected, but however - and here was the kicker - the location on the screen that 
+the particle ended up at, as well as which slit the particle appeared to pass through (in later versions of the 
+experiment which slit "it" passed through could in fact be detected) was not consistent and followed 
+seemingly random and erratic behavior.  What researchers found as more and more of these subatomic 
+particles were sent through the slate one at a time, was that the same wavelike interference pattern 
+emerged that showed up when the experiment was run with a full beam of light as was done by Young some 
+100 years prior. 
+Arguably this experiment illustrates the very essence of the mystery behind much of Quantum Mechanics, 
+showing that our basic understanding of nature or physical reality was not in fact what it appeared to be.  In 
+other words, the ground or substratum of the physical world could be seen as "objective" or "wavelike", 
+depending upon how one looks at it.  While this seems confusing at first, and no doubt is one of the most 
+influential discoveries and principles of science in the modern era.  What was clearly demonstrated in this 
+experiment however, is that a subatomic particle, a corpuscle or whatever you wanted to call it, does not 
+have a completely linear and fully deterministic trajectory in the Classical Mechanics sense - as indicated by 
+the fact that the end distribution of said corpuscles against the back screen after they are projected through 
+the double slitted wall appeared to be "random", i.e. again not fully deterministic.  But what was more odd 
+was that when the experiment was run one corpuscle or particle at a time, not only was the final location on 
+the screen seemingly random individually, but the same aggregate pattern emerged after many, many single 
+corpuscle experiment runs as when a full wave, or set of these corpuscles, was sent through the double slits.  
+So it appeared, and this was and still remains a very important and telling mysterious characteristic feature of 
+the behavior of these "things" at the subatomic scale, is that not only did the individual photon seemed to be 
+aware of the final wave like pattern of its parent wave, but also that this corpuscle appeared to be interfering 
+with itself when it went through the two slits individually.  The result of this experiment and the inherent 
+logical conclusions that scientists arrived at, is that the fundamental substratum of existence was not 
+objective in the classical sense, but was also wavelike at the same time.  Furthermore, even when the 
+experiment is performed with just one subatomic particle, the particle itself seemed appeared to be aware of 
+its inherent wave structure, i.e. that the individual particle was interfering with itself, calling into question the 
+notion of objective reality itself.
+Furthermore, to make things even more mysterious, as the final location of each of the individual photons in 
+the two slit and other related experiments was evaluated and studied, it was discovered that although the 
+final location of an individual one of these particles could not be determined exactly before the experiment 
+was performed, i.e. there was a fundamental element of uncertainty or randomness involved at the individual 
+corpuscle level, it was discovered that the final locations of these particles measured in toto after many 
+experiments were performed exhibited statistical distribution behavior that could be modeled quite 
+precisely, precisely from a mathematical statistics and probability distribution perspective.  That is to say that 
+the sum total distribution of the final locations of all the particles after passing through the slit(s) could be 
+established stochastically, i.e. in terms of well-defined probability distribution consistent with probability 
+theory and well-defined mathematics that governed statistical behavior.  So in total you could predict what 
+the particle like behavior would look like over a large distribution set of particles in the double slit experiment 
+even if you couldn't predict with certainty what the outcome would look like for an individual corpuscle. 
+The mathematics behind this particle distribution that was discovered is what is known as the wavefunction, 
+typically denoted by the Greek letter psi, ψ or its capital equivalent Ψ, predicts what the probability 
+distribution of these "particles" will look like on the screen behind the slate after many individual 
+experiments are run, or in quantum theoretical terms, the wave function predicts the quantum state of a 
+particle throughout a fixed spacetime interval.  The wavefunction was discovered by the Austrian Physicist 
+Erwin Schrödinger in 1925, published in 1926, and is commonly referred to in the scientific literature as the 
+Schrödinger equation, analogous in the field of Quantum Mechanics to Newton's second law of motion in 
+Classical Mechanics.
+This wavefunction represents a probability distribution of potential states or outcomes that describe 
+the quantum state of a particle and predicts with a great degree of accuracy the potential location of a 
+particle given a location or state of motion.  With the discovery of the wavefunction, it became possible to 
+predict the potential locations or states of these subatomic particles, an extremely potent theoretical model 
+that has led to all sorts of inventions and technological advancements since its discovery.  Again, this implied 
+that individual corpuscles were interfering with themselves when passing through the two slits on the slate, 
+which was very odd indeed.  In other words, the individual particles were exhibiting wave like characteristics 
+even when they were sent through the double-slitted slate one at a time.  This phenomenon was shown to 
+occur with atoms as well as electrons and photons, confirming that all of these subatomic so-called particles 
+exhibited wave like properties as well as particle like qualities, the behavior observed determined upon the 
+type of experiment, or measurement as it were, that the "thing" was subject to.
+As Louis De Broglie, the physicist responsible for bridging the theoretical gap between matter, in this case 
+electrons, and waves by establishing the symmetric relation between momentum and wavelength which had 
+at its core Planck's constant (the De Broglie equation), described this mysterious and somewhat 
+counterintuitive relationship between matter and waves, "A wave must be associated with each corpuscle 
+and only the study of the wave's propagation will yield information to us on the successive positions of the 
+corpuscle in space."   In the Award Ceremony Speech in 1929 in honor of Louis de Broglie for his work in 
+establishing the relationship between matter and waves for electrons, we find the essence of his ground 
+breaking and still mysterious discovery which remains a core characteristic of Quantum Mechanics to this 
+day.
+
+Louis de Broglie had the boldness to maintain that not all the properties of matter can be explained by the 
+theory that it consists of corpuscles. Apart from the numberless phenomena which can be accounted for by this 
+theory, there are others, according to him, which can be explained only by assuming that matter is, by its 
+nature, a wave motion. At a time when no single known fact supported this theory, Louis de Broglie asserted 
+that a stream of electrons which passed through a very small hole in an opaque screen must exhibit the same 
+phenomena as a light ray under the same conditions. It was not quite in this way that Louis de Broglie's 
+experimental investigation concerning his theory took place. Instead, the phenomena arising when beams of 
+electrons are reflected by crystalline surfaces, or when they penetrate thin sheets, etc. were turned to account. 
+The experimental results obtained by these various methods have fully substantiated Louis de Broglie's theory. 
+It is thus a fact that matter has properties which can be interpreted only by assuming that matter is of a wave 
+nature. An aspect of the nature of matter which is completely new and previously quite unsuspected has thus 
+been revealed to us. 
+  
+
+So by the 1920s then, you have a fairly well established mathematical theory to govern the behavior of 
+subatomic particles, backed by a large body of empirical and experimental evidence, that indicates quite 
+clearly that what we would call "matter" (or particles or corpuscles) in the classical sense, behaves very 
+differently, or at least has very different fundamental characteristics, in the subatomic realm.  It exhibits 
+properties of a particle, or a thing or object, as well as a wave depending upon the type of experiment that is 
+run.  
+So the concept of matter itself then, as we had been accustomed to dealing with and discussing and 
+measuring for some centuries, at least as far back as the time of Newton (1642-1727), had to be reexamined 
+within the context of Quantum Mechanics.  For in Newtonian Mechanics, and indeed in the geometric and 
+mathematical framework within which it was developed and conceived which reached far back into antiquity 
+(Euclid circa 300 BCE), matter was presumed to be either a particle or a wave, but most certainly not both.  
+What even further complicated matters was that matter itself, again as defined by Newtonian Mechanics and 
+its extension via Relativity Theory taken together what is commonly referred to as Classical Mechanics, was 
+presumed to have some very definite, well-defined and fixed, real properties.  Properties like mass, location 
+or position in space, and velocity or trajectory were all presumed to have a real existence independent of 
+whether or not they were measured or observed, even if the actual values were relative to the frame of 
+reference of the observer.  All of this hinged upon the notion that the speed of light was fixed no matter what 
+the frame of reference of the observer of course, this was a fixed absolute, nothing could move faster than 
+the speed of light.  Well even this seemingly self-evident notion, or postulate one might call it, ran into 
+problems as scientists continued to explore the quantum realm.
+By the 1920s then, the way scientists looked at and viewed matter as we would classically consider it within 
+the context of Newton's postulates from the early 1700s which were extended further into the notion of 
+spacetime as put forth by Einstein, was encountering some significant difficulties when applied to the 
+behavior of elements in the subatomic, quantum, world.  Difficulties that persist to this day in fact.  
+Furthermore, there was extensive empirical and scientific evidence which lent significant credibility to 
+Quantum Theory, which illustrated irrefutably that these subatomic elements behaved not only like waves, 
+exhibiting characteristics such as interference and diffraction, but also like particles in the classic Newtonian 
+sense that had measurable, well defined characteristics that could be quantified within the context of an 
+experiment.  
+In his Nobel Lecture in 1929, Louis de Broglie, summed up the challenge for Physicists of his day, and to a 
+large extent Physicists of modern times, given the discoveries of Quantum Mechanics as follows:
+
+The necessity of assuming for light two contradictory theories-that of waves and that of corpuscles - and the 
+inability to understand why, among the infinity of motions which an electron ought to be able to have in the 
+atom according to classical concepts, only certain ones were possible: such were the enigmas confronting 
+physicists at the time... 
+
+The other major tenet of Quantum Theory that rests alongside wave-particle duality, and that provides even 
+more complexity when trying to wrap our minds around what is actually going on in the subatomic realm, is 
+what is sometimes referred to as the uncertainty principle, or the Heisenberg uncertainty principle, named 
+after the German theoretical physicist Werner Heisenberg who first put forth the theories and models 
+representing the probability distribution of outcomes of the position of these subatomic particles in certain 
+experiments like the double-slit experiment previously described, even though the wavefunction itself was 
+the discovery of Schrödinger.  
+The uncertainty principle states that there is a fundamental theoretical limit on the accuracy with which 
+certain pairs of physical properties of atomic particles, i.e. corpuscles, position and momentum being the 
+classical pair for example, that can be known at any given time with certainty.  In other words, physical 
+quantities come in conjugate pairs, where only one of the measurements of a given pair can be known 
+precisely at any given time.  In other words, when one quantity in a conjugate pair is measured and becomes 
+determined, the complementary conjugate pair becomes indeterminate.  In other words, what Heisenberg 
+discovered, and proved mathematically, was that the more precisely one attempts to measure one of these 
+complimentary properties of subatomic particles, the less precisely the other associated complementary 
+attribute of the element can be determined or known.  
+Published by Heisenberg in 1927, the uncertainty principle states that they are fundamental, conceptual 
+limits of observation in the quantum realm, another radical departure from the realistic and deterministic 
+principles of Classical Mechanics which held that all attributes of a thing were measurable at any given time, 
+i.e. this thing or object existed and was real and had measurable and well defined properties irrespective of 
+its state.  It's important to point out here that the uncertainty principle is a statement on the fundamental 
+property of quantum systems as they are mathematically and theoretically modeled and defined, and of 
+course empirically validated by experimental results, not a statement about the technology and method of 
+the observational systems themselves.  This wasn't a theoretical problem, or a problem with the state of 
+instrumentation that was being used for measurement, it was a characteristic of the domain itself.  
+Max Born, who won the Nobel Prize in Physics in 1954 for his work in Quantum Mechanics, specifically for his 
+statistical interpretations of the wavefunction, describes this now other seemingly mysterious attribute of the 
+quantum realm as follows (the specific language he uses reveals at some level his interpretation of the 
+Quantum Theory, more on interpretations later):
+
+...To measure space coordinates and instants of time, rigid measuring rods and clocks are required.  On the 
+other hand, to measure momenta and energies, devices are necessary with movable parts to absorb the impact 
+of the test object and to indicate the size of its momentum.  Paying regard to the fact that quantum mechanics 
+is competent for dealing with the interaction of object and apparatus, it is seen that no arrangement is possible 
+that will fulfill both requirements simultaneously. 
+
+Whereas Classical Mechanics, physics prior to the introduction of Relativity and Quantum Theory, 
+distinguished between the study of particles and waves, the introduction of Quantum Theory and wave-
+particle duality established that this classic intellectual bifurcation of Physics at the macroscopic scale was 
+wholly inadequate in describing and predicting the behavior of these "things" that existed in the subatomic 
+realm, all of which took on the characteristics of both waves and particles depending upon the experiment 
+and context of the system being observed.  
+Furthermore, the actual precision within which a state of a "thing" in the subatomic world could be defined 
+was conceptually bound, establishing theoretical limits upon which the state of a given subatomic state could 
+be defined, another divergence from Classical Mechanics.  And then on top of this, was the requirement of 
+the mathematical principles of statistics and probability theory, as well as significant extensions to the 
+underlying geometry which were required to map the wavefunction itself in subatomic spacetime, all called 
+quite clearly into question our classical materialistic notions, again based on objective realism and 
+determinism, upon which scientific advancement had been built for centuries.  
+
+Relativity Theory could be grasped intellectually by the educated, intelligent mind.  You didn't need advanced 
+degrees or a deep understanding of complex mathematics to understand that at a very basic level, Relativity 
+Theory implied that basic measurements like speed, distance and even mass were relative and depended 
+upon the observer's frame of reference, that mass and energy were basically convertible into each other and 
+equivalent, related by the speed of light that moved at a fixed speed no matter what your frame of reference, 
+and that space and time were not in fact separate and distinct concepts but in order for a more accurate 
+picture of the universe to emerge they needed to be combined into a single notion of spacetime.  Relativity 
+says that even gravity's effect was subject to the same principles that played out at the cosmic scale, i.e. that 
+spacetime "bends" at points of singularity (black holes for example), bends to the extent that light in fact is 
+impacted by the severe gravitational forces at these powerful places in the universe.  And indeed our 
+measurements of time and space were "relative", relative to the speed and frame of reference from which 
+these measurements were made, the observer was in fact a key element in the process of measurement.  
+If you assumed all these things, you ended up with a more complete and accurate mathematical and 
+theoretical understanding of the universe than you had with Newtonian Mechanics, and one that is powerful 
+enough that despite the best efforts of many great minds over the last 100 years or so, has yet to be 
+supplanted with anything better, at least at the macro scale of the universe. Relativity undoubtedly 
+represents a major intellectual leap in mankind's understanding of the shape, behavior and underlying laws 
+that govern the physical universal, but a subtle and quite distinctive feature of this model was that it 
+fundamentally relies on the same deterministic and objective realist assumptions which underlie Classical 
+Mechanics as "discovered" and modelled by Newton.  
+In other words, Relativity Theory implicitly assumed that objects in the physical do in fact exist, i.e. they were 
+"real", real in the sense that they had an absolute existence in the spacetime continuum within some frame 
+of reference by some "observer" that also "existed" within the spacetime continuum, each of which could be 
+described, or "defined", in terms of qualitative data like speed, mass, velocity, etc.  Furthermore, Relativity 
+Theory like Classical Mechanics before it, was framed and built upon the notion that if you knew a set of 
+starting criteria, what scientists like to call a "system state", as well as a set of variables/forces that acted on 
+said system, you could in turn predict with certainty the outcome of said forces on such a system, i.e. the set 
+of observed descriptive qualities of the objects in said system after the forces have acted upon the objects 
+that existed in the original system state.  This is the essence of the deterministic model of the universe, a 
+principle which underlies the both Relativity Theory as well as Newtonian Mechanics.
+It's quite relevant and important to point out however that in fact these "assumptions" upon which all 
+modern Physics are based - all modern Physics except Quantum Mechanics which is where we're headed 
+here with this line of reasoning - were quite modern metaphysical assumptions that were a product of the 
+Scientific Revolution more or less.  In other words, a fully deterministic and objective view of reality which 
+came to define early 20th century physics, although it had roots going back to ancient Greece as we have 
+already pointed out, had not in fact been the prevailing assumptions that governed models of the universe 
+prior to Newton and Einstein, at least not in to the degree of certainty that had been established by these 
+powerful theories and mathematical models and laws that these two great minds had firmly established and 
+had been proven by a variety of experiments and data.  Prior to Newton, the world of the spirit, theology in 
+fact, was very much considered to be just as real as the physical world, the world governed by Science or 
+natural philosophy.  This fact was true not only in the West, but also in the East, and while this idea has been 
+all but abandoned by the Western scientific tradition, it nonetheless to a great extent remains true within the 
+domain of Eastern philosophy which includes and synthesizes the model of the physical world, the 
+intellectual or cognitive world, as well as the spiritual world which is defined and bounded by the domain of 
+the Soul.
+But at their basic, core level, these concepts of the atom, electromagnetic force, gravity and Relativity could 
+be understood, grasped as it were, by the vast majority of the educated public, even if they had very little if 
+any bearing on their daily lives and even if didn't fundamentally change or shift their underlying religious or 
+theological beliefs, or in turn their moral or ethical principles which still remained rooted in Religion for the 
+most part.  Relativity has been "accepted" in the modern era, the so-called Quantum Era, as a basic truth as it 
+were, along with its deterministic and objective realism philosophical and metaphysical assumptions.  What 
+tends to be forgotten however, and not really covered or mentioned in the "scientific" and academic circles 
+which reinforce the "truth" of these theories and laws is that their underlying principles and assumptions do 
+not have any bearing whatsoever on the "subject" in question, i.e. the mental, cognitive or intellectual state 
+of the "observer" whose frame of reference is used for the measurement of these quantifiable phenomena.  
+So one of the major and significant implications of the influence and prevalence of modern physics, again 
+leaving aside Quantum Theory for a moment, is that these theories and models completely ignored, and in 
+fact came to represent a sort of intellectual or ontological superiority to, the "act of observation", and the 
+mode and means of perception itself, one of the driving principles and ideas of Enlightenment Era 
+philosophical inquiry in fact.  The dictum put forth by Descartes as "cogito ergo sum", i.e. "I think therefore I 
+am" was superseded by a dictum that is perhaps best expressed as "I observe and measure therefore I am". 
+Quantum Theory is an altogether different beast however, even though it still falls squarely within the 
+discipline of Physics.  The mathematical laws and their underlying assumptions and principles are very 
+different from, and in fact incompatible at a very basic level with, the mathematical laws and principles that 
+were "discovered" by Newton, Einstein that describe Classical Mechanics and Relativity respectively.  And in 
+order to truly "understand" Quantum Theory, or at least try to come to terms with it, a wholesale different 
+perspective on what reality truly is, or at the very least how reality is defined, is in fact required - hence the 
+continued struggle for a so-called Unified Field Theory of Physics which describes the quantum realm and 
+also takes into account the notion of spacetime and gravity as described by Relativity Theory.  In other words, 
+in order to understand what Quantum Theory actually means, its underlying ontological implications as it 
+were, or in order to grasp the underlying intellectual context within which the behaviors of the underlying 
+particles/fields that Quantum Theory describes can be properly understood, a new framework of 
+understanding, a new description of reality, must be adopted.  What we consider to be "reality", our 
+objective realism" which underlies Classical Mechanics which has dominated Physics and our modern 
+perspective and definition of "physical reality", or simply "reality", since the publication of Newton's Principia 
+at the end of the 17th century needed to be abandoned, or at the very least significantly modified, in order for 
+Quantum Theory to be understood in any meaningful way, i.e. in order for some comprehension of the 
+implications of Quantum Theory's underlying truth about the nature and behavior of the substratum of 
+physical reality, and in turn the role of the "observer" in said reality, to be understood.
